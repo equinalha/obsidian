@@ -1,0 +1,26 @@
+filters:
+  and:
+    - note["base"] == link("New database.base")
+properties:
+  file.name:
+    displayName: Algoritmo
+  Files:
+    displayName: Files
+  Tamanho do bloco:
+    displayName: Tamanho do bloco
+  Tamanho da palavra:
+    displayName: Tamanho da palavra
+  Tamanho da mensagem:
+    displayName: Tamanho da mensagem
+  Tamanho do resumo da mensagem:
+    displayName: Tamanho do resumo da mensagem
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Files
+      - Tamanho do bloco
+      - Tamanho da palavra
+      - Tamanho da mensagem
+      - Tamanho do resumo da mensagem

@@ -4,6 +4,19 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "Assign": "multitext",
-    "Status": "text"
+    "Status": "text",
+    "Files": "multitext",
+    "Tamanho do bloco": "number",
+    "Tamanho da palavra": "number",
+    "Tamanho da mensagem": "text",
+    "Tamanho do resumo da mensagem": "number",
+    "Class": "text",
+    "Reviewed": "checkbox",
+    "Created": "datetime",
+    "Type": "text",
+    "Materials": "multitext",
+    "Description": "text",
+    "Desempenho": "number",
+    "Link": "text"
   }
 }

@@ -625,31 +625,31 @@ Otimização do insertion**
 		- O **filho à esquerda** da subárvore direita será **filho a direita do pai (da própria subárvore)**
 		- **O pai vira filho à esquerda da subárvore**
 ![[Poscomp/images/Untitled 3.png]]
-![[Untitled 4.png]]
+![[ADS Puc/images/Untitled 4.png]]
 	- Direita Simples
 		- Quando a subárvore mais à esquerda causar o desbalanceamento
 		- O filho a direita da subárvore esquerda será o filho a esquerda do pai
 		- O pai será filho a direita da subárvore esquerda
-![[Untitled 5.png]]
-![[Untitled 6.png]]
+![[ADS Puc/images/Untitled 5.png]]
+![[ADS Puc/images/Untitled 6.png]]
 	- Esquerda Dupla
 		- Quando a subárvore esquerda da direita causar o desbalanceamento
 		- Simples **direita** na **subárvore direita** + simples **esquerda** na árvore **original**
 			- Obs: Mesmo que o filho seja null
-![[Untitled 7.png|Desbalanceada]]
-![[Untitled 8.png|Passo 1: Desmembra a subárvore direita]]
-![[Untitled 9.png|Passo 2: Rotação à direita]]
-![[Untitled 10.png|Passo 3: Junta na árvore original]]
-![[Untitled 11.png|Passo 4: Rotação à esquerda]]
+![[ADS Puc/images/Untitled 7.png|Desbalanceada]]
+![[ADS Puc/images/Untitled 8.png|Passo 1: Desmembra a subárvore direita]]
+![[ADS Puc/images/Untitled 9.png|Passo 2: Rotação à direita]]
+![[ADS Puc/images/Untitled 10.png|Passo 3: Junta na árvore original]]
+![[ADS Puc/images/Untitled 11.png|Passo 4: Rotação à esquerda]]
 	- Direita Dupla
 		- Quando a subárvore direita da subárvore esquerda causa o desbalanceamento
 		- Esquerda simples na subárvore esquerda + direita simples na árvore original
-![[Untitled 12.png|Desbalanceada]]
-![[Untitled 13.png|Passo 1: Desmembra a esquerda]]
+![[ADS Puc/images/Untitled 12.png|Desbalanceada]]
+![[ADS Puc/images/Untitled 13.png|Passo 1: Desmembra a esquerda]]
         Passo 2: Rotação à esquerda
         Passo 3: Junta na árvore original
         Passo 4: Rotação à direita
-![[Untitled 14.png]]
+![[ADS Puc/images/Untitled 14.png]]
 ![[nse-6779031373762075482-1000064235.jpg]]
 ![[nse-3696523304561482442-1000064242.jpg]]
     ## Remoção
@@ -659,14 +659,14 @@ PASSO 2: IDENTIFIQUE O MENOR ELEMENTO DE TODA SUBÁRVORE À DIREITA DO NÓ IDENT
 PASSO 1 (EM VERDE)
 PASSO 3: COPIE O VALOR DO NÓ IDENTIFICADO NO PASSO 2 PARA O NÓ IDENTIFICADO NO PASSO 1
 PASSO 4: REMOVA O ELEMENTO IDENTIFICADO NO PASSO 2.
-![[Untitled 15.png]]
+![[ADS Puc/images/Untitled 15.png]]
     ESTRATÉGIA 2
 PASSO 1: IDENTIFIQUE O ELEMENTO QUE VOCÊ DESEJA RETIRAR DA ÁRVORE (EM VERMELHO)
 PASSO 2: IDENTIFIQUE O MAIOR ELEMENTO DE TODA SUBÁRVORE À ESQUERDA DO NÓ IDENTIFICADO NO
 PASSO 1 (EM VERDE)
     PASSO 3: COPIE O VALOR DO NÓ IDENTIFICADO NO PASSO 2 PARA O NÓ IDENTIFICADO NO PASSO 1
 PASSO 4: REMOVA O ELEMENTO IDENTIFICADO NO PASSO 2.
-![[Untitled 16.png]]
+![[ADS Puc/images/Untitled 16.png]]
 
 ## Outros Tipos de Árvores
 
@@ -682,7 +682,7 @@ PASSO 4: REMOVA O ELEMENTO IDENTIFICADO NO PASSO 2.
 	- Cada página pode ter um número diferente de chaves, maior que 1
 	- Cada **chave** referencia duas **páginas** filhas, onde a página da esquerda contém chaves menores e a da direita chaves maiores
 	- Logo, uma **página** com k **chaves** terá k+1 **páginas** **filhas**
-![[Untitled 17.png]]
+![[ADS Puc/images/Untitled 17.png]]
 	- Complexidades (Pior caso)
 		- Inserção O(log n)
 		- Busca O(log n)
@@ -700,7 +700,7 @@ PASSO 4: REMOVA O ELEMENTO IDENTIFICADO NO PASSO 2.
 	- Isto permite que o acesso em sequência ocorra naturalmente, uma vez que, ao procurar pela chave k+1, pode-se ir para a próxima chave na mesma página ou pular para a página ao lado
 	- Na árvore B, seria necessário reiniciar a busca a partir da raiz
 
-![[Untitled 18.png]]
+![[ADS Puc/images/Untitled 18.png]]
 
 ### AVL
 

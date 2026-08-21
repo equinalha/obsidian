@@ -1,0 +1,38 @@
+filters:
+  and:
+    - note["base"] == link("ADS - PUC-PR.base")
+properties:
+  file.name:
+    displayName: Name
+  Class:
+    displayName: Class
+  Reviewed:
+    displayName: Reviewed
+  Created:
+    displayName: Created
+  Type:
+    displayName: Type
+  Materials:
+    displayName: Materials
+  Status:
+    displayName: Status
+  Description:
+    displayName: Description
+  Desempenho:
+    displayName: Desempenho
+  Link:
+    displayName: Link
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Class
+      - Reviewed
+      - Created
+      - Type
+      - Materials
+      - Status
+      - Description
+      - Desempenho
+      - Link
