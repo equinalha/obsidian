@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b49d9a6fe663badb",
+        "id": "385ecc316020a6a0",
         "type": "tabs",
         "children": [
           {
-            "id": "45c558975879dad8",
+            "id": "366962655f65ede0",
             "type": "leaf",
             "state": {
-              "type": "meld-encrypted-view",
+              "type": "markdown",
               "state": {
-                "file": "MPPR/subpages/Curso Kubernetes 4 Linux.mdenc",
-                "mode": "source",
+                "file": "MPPR/MPPR.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Curso Kubernetes 4 Linux"
-            }
-          },
-          {
-            "id": "6a7b4fa3d97cb4f6",
-            "type": "leaf",
-            "state": {
-              "type": "meld-encrypted-view",
-              "state": {
-                "file": "TRE-PR/TRE-PR.mdenc",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TRE-PR"
+              "title": "MPPR"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 358.5
   },
   "right": {
     "id": "b1ffd81be7398b06",
@@ -222,20 +207,29 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "6a7b4fa3d97cb4f6",
+  "active": "366962655f65ede0",
   "lastOpenFiles": [
     "MPPR/subpages/Formação DevSecOps Alura/Formação DevSecOps Alura.mdenc",
-    "MPPR/subpages/Curso Kubernetes 4 Linux.md",
-    "MPPR/subpages/Formação DevSecOps Alura/GCloud.mdenc",
     "MPPR/subpages/Formação DevSecOps Alura/Git.mdenc",
-    "MPPR/subpages/Formação DevSecOps Alura/Modelagem de Ameaças.mdenc",
     "MPPR/subpages/Formação DevSecOps Alura/VsCode.mdenc",
+    "MPPR/MPPR.md",
+    "MPPR/subpages/Formação Alura Backend.mdenc",
+    "MPPR/subpages/Formação DevSecOps Alura/CI-CD.mdenc",
+    "VsCode.md",
+    "Modelagem de Ameaças.md",
+    "MPPR/subpages/Tarefas/Dependency Track.mdenc",
+    "MPPR/subpages/Tarefas/Concurso MPPR 2025 - Fiscalização.mdenc",
+    "MPPR/subpages/Certidões.mdenc",
+    "MPPR/subpages/Prompt Engineering.mdenc",
+    "MPPR/subpages/Tarefas/Tarefas.base",
+    "MPPR/subpages/Trabalhando com issues curtas.mdenc",
+    "Sem título.md",
+    "Prompt Engineering.md",
+    "2026-08-21.md",
+    "MPPR/subpages/Curso Kubernetes 4 Linux.md",
     "MPPR/subpages/Formação DevSecOps Alura/CI-CD.md",
     "MPPR/subpages/Formação DevSecOps Alura/ArgoCD.md",
-    "MPPR/subpages/Formação DevSecOps Alura/CI-CD.mdenc",
     "MPPR/subpages/Formação DevSecOps Alura/Docker.md",
-    "MPPR/subpages/Curso Kubernetes 4 Linux.mdenc",
-    "MPPR/subpages/Tarefas/Xwiki Gaeco.mdenc",
     "MPPR/subpages/Trabalhando com issues curtas.md",
     "MPPR/subpages/Tarefas/kubediagrams.md",
     "MPPR/subpages/Tarefas/Xwiki Gaeco.md",
@@ -251,14 +245,6 @@
     "MPPR/subpages/Tarefas/Certidões Certificado SSL.md",
     "MPPR/subpages/Prompt Engineering.md",
     "MPPR/subpages/OAuth 2.0 & OpenID.md",
-    "MPPR/subpages/Mágicas do git.md",
-    "MPPR/subpages/GitOps Introduction with Argo CD – Erwin's Blog!.md",
-    "MPPR/subpages/GitLab Flow.md",
-    "MPPR/subpages/Formação DevSecOps Alura/VsCode.md",
-    "MPPR/subpages/Formação DevSecOps Alura/Modelagem de Ameaças.md",
-    "MPPR/subpages/Formação DevSecOps Alura/Git.md",
-    "MPPR/subpages/Tarefas/Tarefas.base",
-    "MPPR/subpages/Tarefas/Secret Detection.mdenc",
     "MPPR/images/image.png",
     "MPPR/images/MPPR.png",
     "MPPR/images/imagem3.png",

@@ -16,6 +16,8 @@ views:
       - Assign
       - Status
     sort:
+      - property: Status
+        direction: DESC
       - property: file.name
         direction: ASC
   - type: cards
