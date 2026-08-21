@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fa0cd529526297d2",
+        "id": "772a870af6a3ff0e",
         "type": "tabs",
         "children": [
           {
-            "id": "65ffd207221dd1db",
+            "id": "9b97d55f07420eb0",
             "type": "leaf",
             "state": {
-              "type": "meld-encrypted-view",
+              "type": "markdown",
               "state": {
-                "file": "MPPR/MPPR.mdenc",
-                "mode": "preview",
+                "file": "Poscomp/Poscomp.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MPPR"
+              "title": "Poscomp"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TRE-PR/_ Início.mdenc",
+                "file": "Poscomp/Poscomp.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -207,10 +207,24 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "65ffd207221dd1db",
+  "active": "9762d0c0857ccd5c",
   "lastOpenFiles": [
-    "TRE-PR/TRE-PR.mdenc",
+    "Poscomp/images/image.png",
+    "Poscomp/Poscomp.md",
+    "Poscomp/images",
     "MPPR/MPPR.mdenc",
+    "Poscomp/images/image 48.png",
+    "Poscomp/images/image 47.png",
+    "Poscomp/images/image 46.png",
+    "Poscomp/images/image 45.png",
+    "Poscomp/images/image 44.png",
+    "Poscomp/images/image 43.png",
+    "Poscomp/images/image 42.png",
+    "Poscomp/images/image 41.png",
+    "Poscomp/images/image 40.png",
+    "Poscomp/images/image 39.png",
+    "Poscomp",
+    "TRE-PR/TRE-PR.mdenc",
     "VsCode.md",
     "Modelagem de Ameaças.md",
     "MPPR/subpages/Formação DevSecOps Alura/Formação DevSecOps Alura.mdenc",
@@ -219,9 +233,6 @@
     "MPPR/subpages/Formação Alura Backend.mdenc",
     "MPPR/subpages/Formação DevSecOps Alura/CI-CD.mdenc",
     "MPPR/subpages/Tarefas/Dependency Track.mdenc",
-    "MPPR/subpages/Tarefas/Concurso MPPR 2025 - Fiscalização.mdenc",
-    "MPPR/subpages/Certidões.mdenc",
-    "MPPR/subpages/Prompt Engineering.mdenc",
     "Sem título.md",
     "Prompt Engineering.md",
     "2026-08-21.md",
@@ -244,16 +255,6 @@
     "MPPR/subpages/Tarefas/Certidões Certificado SSL.md",
     "MPPR/subpages/Prompt Engineering.md",
     "MPPR/subpages/OAuth 2.0 & OpenID.md",
-    "MPPR/images/image.png",
-    "MPPR/images/MPPR.png",
-    "MPPR/images/imagem3.png",
-    "MPPR/images/image 11.png",
-    "MPPR/images/image 10.png",
-    "MPPR/images/image 9.png",
-    "MPPR/images/image 8.png",
-    "MPPR/images/image 7.png",
-    "MPPR/images/image 6.png",
-    "MPPR/images/image 5.png",
     "Sem título.canvas"
   ]
 }
