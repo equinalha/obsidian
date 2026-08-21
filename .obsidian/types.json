@@ -17,6 +17,8 @@
     "Materials": "multitext",
     "Description": "text",
     "Desempenho": "number",
-    "Link": "text"
+    "Link": "text",
+    "Author": "text",
+    "Tweet Link": "text"
   }
 }

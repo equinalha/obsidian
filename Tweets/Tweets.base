@@ -1,0 +1,28 @@
+filters:
+  and:
+    - note["base"] == link("Tweets.base")
+properties:
+  file.name:
+    displayName: Tweet
+  Type:
+    displayName: Type
+  Created:
+    displayName: Created
+  Author:
+    displayName: Author
+  Tags:
+    displayName: Tags
+  Tweet Link:
+    displayName: Tweet Link
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Type
+      - Created
+      - Author
+      - Tags
+      - Tweet Link
+    columnSize:
+      file.name: 431

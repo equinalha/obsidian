@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#8f66ff",
     "recentlyUsedIcons": [
+      "LiBird",
       "LiCodeXml",
       "LiLock",
       "LiGithub",
-      "LiCloud",
-      "🎓"
+      "LiCloud"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -136,5 +136,7 @@
   "Mestrado": "🎓",
   "Mestrado/Mestrado.md": "🎓",
   "ADS Puc": "🎓",
-  "ADS Puc/ADS - PUC-PR.base": "🎓"
+  "ADS Puc/ADS - PUC-PR.base": "🎓",
+  "Tweets": "LiBird",
+  "Tweets/Tweets.base": "LiBird"
 }
