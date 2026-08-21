@@ -1,0 +1,24 @@
+filters:
+  and:
+    - note["base"] == link("Tarefas.base")
+properties:
+  file.name:
+    displayName: Name
+  Assign:
+    displayName: Assign
+  Status:
+    displayName: Status
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Assign
+      - Status
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: cards
+    name: Visualizaçao padrão
+  - type: list
+    name: Visualizaçao padrão 2

@@ -1,0 +1,24 @@
+{
+  "pluginList": [
+    "obsmd-projects/obsidian-projects"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "obsmd-projects/obsidian-projects",
+      "version": "1.17.3"
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "globalTokenName": "",
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false,
+  "allowIncompatiblePlugins": false
+}

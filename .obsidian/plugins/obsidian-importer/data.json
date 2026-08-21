@@ -1,0 +1,20 @@
+{
+  "secrets": {
+    "notion-api": "obsidian"
+  },
+  "outputLocations": {},
+  "outputSettings": {
+    "notion-api": {
+      "folder": "MPPR",
+      "attachments": {
+        "mode": "vault",
+        "path": ""
+      },
+      "duplicates": "create-copy",
+      "saveSourceId": false
+    }
+  },
+  "onenoteAttachments": {},
+  "sourceFolders": {},
+  "lastSourceFolder": ""
+}

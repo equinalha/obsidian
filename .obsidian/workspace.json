@@ -1,0 +1,274 @@
+{
+  "main": {
+    "id": "acc7be8094ea4f7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b49d9a6fe663badb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45c558975879dad8",
+            "type": "leaf",
+            "state": {
+              "type": "meld-encrypted-view",
+              "state": {
+                "file": "MPPR/subpages/Curso Kubernetes 4 Linux.mdenc",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Curso Kubernetes 4 Linux"
+            }
+          },
+          {
+            "id": "6a7b4fa3d97cb4f6",
+            "type": "leaf",
+            "state": {
+              "type": "meld-encrypted-view",
+              "state": {
+                "file": "TRE-PR/TRE-PR.mdenc",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TRE-PR"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12ec582e68338e6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f7559a43573de18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f72d7159ebc2bf8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "e2f6a62b670c9f5f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "a8e6858599118bc8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 432.5
+  },
+  "right": {
+    "id": "b1ffd81be7398b06",
+    "type": "split",
+    "children": [
+      {
+        "id": "4dc3d4fb46803891",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abd89d96e8b6179f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TRE-PR/_ Início.mdenc",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "7138f4916c99a42e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TRE-PR/_ Início.mdenc",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "c159144934562896",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "512f201f3038f891",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "f9e74816189b3fde",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TRE-PR/_ Início.mdenc",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "9762d0c0857ccd5c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Lock and Close all open encrypted notes": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "meld-encrypt:Encrypt Selection": false,
+      "meld-encrypt:Decrypt at Cursor": false,
+      "obsidian-importer:Importar notas": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-projects:Open projects": false
+    }
+  },
+  "active": "6a7b4fa3d97cb4f6",
+  "lastOpenFiles": [
+    "MPPR/subpages/Formação DevSecOps Alura/Formação DevSecOps Alura.mdenc",
+    "MPPR/subpages/Curso Kubernetes 4 Linux.md",
+    "MPPR/subpages/Formação DevSecOps Alura/GCloud.mdenc",
+    "MPPR/subpages/Formação DevSecOps Alura/Git.mdenc",
+    "MPPR/subpages/Formação DevSecOps Alura/Modelagem de Ameaças.mdenc",
+    "MPPR/subpages/Formação DevSecOps Alura/VsCode.mdenc",
+    "MPPR/subpages/Formação DevSecOps Alura/CI-CD.md",
+    "MPPR/subpages/Formação DevSecOps Alura/ArgoCD.md",
+    "MPPR/subpages/Formação DevSecOps Alura/CI-CD.mdenc",
+    "MPPR/subpages/Formação DevSecOps Alura/Docker.md",
+    "MPPR/subpages/Curso Kubernetes 4 Linux.mdenc",
+    "MPPR/subpages/Tarefas/Xwiki Gaeco.mdenc",
+    "MPPR/subpages/Trabalhando com issues curtas.md",
+    "MPPR/subpages/Tarefas/kubediagrams.md",
+    "MPPR/subpages/Tarefas/Xwiki Gaeco.md",
+    "MPPR/subpages/Tarefas/Secret Detection.md",
+    "MPPR/subpages/Tarefas/Qualys DAST.md",
+    "MPPR/subpages/Tarefas/Keycloak.md",
+    "MPPR/subpages/Tarefas/GitLab Runner.md",
+    "MPPR/subpages/Tarefas/Gestão de Conhecimento.md",
+    "MPPR/subpages/Tarefas/Disk 100 Ouvidoria.md",
+    "MPPR/subpages/Tarefas/Dependency Track.md",
+    "MPPR/subpages/Tarefas/Concurso MPPR 2025 - Fiscalização.md",
+    "MPPR/subpages/Tarefas/Coda-N8n.md",
+    "MPPR/subpages/Tarefas/Certidões Certificado SSL.md",
+    "MPPR/subpages/Prompt Engineering.md",
+    "MPPR/subpages/OAuth 2.0 & OpenID.md",
+    "MPPR/subpages/Mágicas do git.md",
+    "MPPR/subpages/GitOps Introduction with Argo CD – Erwin's Blog!.md",
+    "MPPR/subpages/GitLab Flow.md",
+    "MPPR/subpages/Formação DevSecOps Alura/VsCode.md",
+    "MPPR/subpages/Formação DevSecOps Alura/Modelagem de Ameaças.md",
+    "MPPR/subpages/Formação DevSecOps Alura/Git.md",
+    "MPPR/subpages/Tarefas/Tarefas.base",
+    "MPPR/subpages/Tarefas/Secret Detection.mdenc",
+    "MPPR/images/image.png",
+    "MPPR/images/MPPR.png",
+    "MPPR/images/imagem3.png",
+    "MPPR/images/image 11.png",
+    "MPPR/images/image 10.png",
+    "MPPR/images/image 9.png",
+    "MPPR/images/image 8.png",
+    "MPPR/images/image 7.png",
+    "MPPR/images/image 6.png",
+    "MPPR/images/image 5.png",
+    "Sem título.canvas"
+  ]
+}

@@ -1,0 +1,83 @@
+
+:root {
+    --notion-red: #cf5148;
+    --notion-green: #50946e;
+    --cor-link-notion: rgb(240, 239, 237);
+}
+
+/* 1. Formatação do Link (Remove borda global e aplica flex para alinhar ícone + texto) */
+.cm-s-obsidian span.cm-hmd-internal-link,
+.markdown-rendered a.internal-link {
+    color: rgb(240, 239, 237) !important;
+    text-decoration: none !important;
+    border-bottom: 1px solid rgba(255, 255, 235, 0.15) !important; /* Remove a borda do container do link */
+    fill: rgb(240, 239, 237);
+    font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", "Noto Sans Arabic", "Noto Sans Hebrew", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 16px;
+    font-weight: 500;
+
+    /* Transforma o link em flex para alinhar o ícone com o texto na mesma linha */
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 8px !important; /* Espaçamento exato entre o ícone e o texto */
+    width: fit-content !important;
+}
+
+.cm-underline {
+    text-decoration-line: none !important;
+}
+
+/* 2. Aplica a linha sublinhada estilo Notion APENAS no texto (ignorando o ícone) */
+.markdown-rendered a.internal-link {
+    /* Aplica a borda inferior via pseudo-elemento apenas na área do texto */
+    border-bottom: 1px solid rgba(255, 255, 235, 0.15) !important;
+}
+
+/* 3. Alinhamento perfeito em grade para os Ícones (Iconize) */
+.markdown-rendered a.internal-link .iconize-icon-in-link {
+    display: inline-flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    width: 24px !important; /* Caixa fixa para todos os ícones/emojis */
+    height: 24px !important;
+    flex-shrink: 0 !important;
+    transform: none !important; /* Remove deslocamentos verticais inline do plugin */
+    margin: 0 !important;
+}
+
+/* 4. Cores auxiliares e Hover */
+.cm-s-obsidian span.cm-link,
+.markdown-rendered a.external-link {
+    color: #1a73e8 !important;
+}
+
+.markdown-rendered a.internal-link:hover,
+.markdown-rendered a.external-link:hover {
+    color: #438101 !important;
+}
+
+/* 5. Remove marcadores de lista (bolinhas) no modo de leitura e edição */
+/* .markdown-rendered ul,
+.markdown-rendered li,
+.callout-content ul, 
+.callout-content li {
+    list-style: none !important;
+    list-style-type: none !important;
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+} */
+
+/* Remove os marcadores específicos de leitura do Obsidian em temas escuros/claros */
+/* .markdown-rendered ul > li::marker,
+.markdown-rendered ol > li::marker {
+    content: "" !important;
+    display: none !important;
+} */
+
+.callout-content a {
+    margin-bottom: 5px !important; /* Espaçamento vertical entre os itens estilo Notion */
+}
+
+div.inline-title {
+    margin-bottom: 30px !important; /* Espaçamento vertical entre os itens estilo Notion */
+}

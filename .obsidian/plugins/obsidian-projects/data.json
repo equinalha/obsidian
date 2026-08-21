@@ -1,0 +1,83 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "MPPR/subpages/Tarefas",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "includeFields": [],
+            "groupByField": "Status",
+            "columns": {
+              "No status": {
+                "weight": 0
+              },
+              "Done": {
+                "weight": 1
+              },
+              "In progress": {
+                "weight": 2
+              },
+              "Archived": {
+                "weight": 3,
+                "collapse": true
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "03237d94-959c-444f-a934-a2278ee085a4",
+          "name": "Kanban",
+          "type": "board"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "49668340-1b98-43fb-be8c-3488250b9334",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "a45aadeb-5578-42b3-abb0-e269d5919552",
+      "name": "Tarefas"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}
