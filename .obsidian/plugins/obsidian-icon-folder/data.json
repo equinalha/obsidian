@@ -36,7 +36,6 @@
   },
   "TRE-PR": "MyBrasao",
   "MPPR": "MyMppr",
-  "MPPR/MPPR.md": "MyMppr",
   "MPPR/subpages/Tarefas/Certidões Certificado SSL.md": "🔐",
   "MPPR/subpages/Tarefas/Coda-N8n.md": "🤖",
   "MPPR/subpages/Tarefas/Dependency Track.md": "♾",
@@ -130,5 +129,6 @@
   "MPPR/subpages/Formação DevSecOps Alura/GCloud.mdenc": "LiCloud",
   "MPPR/subpages/Formação DevSecOps Alura/Git.mdenc": "LiGithub",
   "MPPR/subpages/Formação DevSecOps Alura/Modelagem de Ameaças.mdenc": "LiLock",
-  "MPPR/subpages/Formação DevSecOps Alura/VsCode.mdenc": "LiCodeXml"
+  "MPPR/subpages/Formação DevSecOps Alura/VsCode.mdenc": "LiCodeXml",
+  "MPPR/MPPR.mdenc": "MyMppr"
 }

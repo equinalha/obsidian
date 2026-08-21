@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "385ecc316020a6a0",
+        "id": "fa0cd529526297d2",
         "type": "tabs",
         "children": [
           {
-            "id": "366962655f65ede0",
+            "id": "65ffd207221dd1db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "meld-encrypted-view",
               "state": {
-                "file": "MPPR/MPPR.md",
+                "file": "MPPR/MPPR.mdenc",
                 "mode": "preview",
                 "source": false
               },
@@ -207,22 +207,21 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "366962655f65ede0",
+  "active": "65ffd207221dd1db",
   "lastOpenFiles": [
+    "TRE-PR/TRE-PR.mdenc",
+    "MPPR/MPPR.mdenc",
+    "VsCode.md",
+    "Modelagem de Ameaças.md",
     "MPPR/subpages/Formação DevSecOps Alura/Formação DevSecOps Alura.mdenc",
     "MPPR/subpages/Formação DevSecOps Alura/Git.mdenc",
     "MPPR/subpages/Formação DevSecOps Alura/VsCode.mdenc",
-    "MPPR/MPPR.md",
     "MPPR/subpages/Formação Alura Backend.mdenc",
     "MPPR/subpages/Formação DevSecOps Alura/CI-CD.mdenc",
-    "VsCode.md",
-    "Modelagem de Ameaças.md",
     "MPPR/subpages/Tarefas/Dependency Track.mdenc",
     "MPPR/subpages/Tarefas/Concurso MPPR 2025 - Fiscalização.mdenc",
     "MPPR/subpages/Certidões.mdenc",
     "MPPR/subpages/Prompt Engineering.mdenc",
-    "MPPR/subpages/Tarefas/Tarefas.base",
-    "MPPR/subpages/Trabalhando com issues curtas.mdenc",
     "Sem título.md",
     "Prompt Engineering.md",
     "2026-08-21.md",
