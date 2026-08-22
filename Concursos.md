@@ -1,5 +1,4 @@
-[[ADABAS]][[Machine Learning]][[Conceitos de BI]][[Conceitos de BI]][[Conceitos de BI]]
-[[Machine Learning]][[Mineração de Dados]][[Análise Exploratória de Dados]]# Engenharia de Software, Gestão de Projetos e Governança de TI
+Engenharia de Software, Gestão de Projetos e Governança de TI
 ---
 >[!col]
 >[[Engenharia de Software]]
@@ -177,7 +176,6 @@
 >[[SQL]]
 >[[H2 Database]]
 >[[Sharding]]
-
 ---
 
 
