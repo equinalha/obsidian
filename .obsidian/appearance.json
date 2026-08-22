@@ -1,5 +1,6 @@
 {
   "enabledCssSnippets": [
     "Notions style links"
-  ]
+  ],
+  "theme": "obsidian"
 }
