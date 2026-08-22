@@ -1,0 +1,65 @@
+---
+base: "[[Concursos.base]]"
+Verification: unverified
+Tags: []
+Last edited time: 2024-09-15T13:15:00
+Owner:
+  - Eduardo Quinalha
+---
+- **Zeugma**: 
+	- Palavra ou expressão usada de forma a modificar **dois ou mais termos em uma frase**, porém, de **maneira distinta em relação a cada um deles**. 
+	- Isso cria um efeito de **sentido ou humor.**
+		- Exemplo: "Ele perdeu a paciência e a esperança."
+- **Elipse**: 
+	- **Omissão** de uma ou mais palavras em uma frase, mas que podem ser facilmente **inferidas pelo contexto**. 
+	- É utilizada para tornar a comunicação mais concisa. 
+		- Exemplo: "Gosto de sorvete; ela, de bolo."
+- **Metáfora**: 
+	- Estabelece uma **relação de semelhança entre dois termos**, atribuindo características de um ao outro. 
+	- Não utiliza conectivos explícitos como "como" ou "parecido com". 
+		- Exemplo: "A vida é uma estrada."
+- **Paradoxo**: 
+	- Ideia que parece **contraditória** à primeira vista, mas que, após uma análise mais profunda, revela-se verdadeira ou plausível. 
+		- Exemplo: "Menos é mais."
+- **Ironia**: 
+	- Discrepância entre o que é dito e o que é realmente entendido, geralmente com o intuito de transmitir **sarcasmo**, crítica ou humor. 
+		- Exemplo: "Que belo dia para um dilúvio!"
+- **Hipérbole**: 
+	- **Ampliação exagerada** de uma ideia ou acontecimento, tornando-o maior ou mais intenso do que realmente é. 
+	- É usada para enfatizar uma característica ou criar um efeito dramático. 
+		- Exemplo: "Estou morrendo de vergonha."
+- **Catacrese**: 
+	- Uso impróprio ou metafórico de uma palavra para descrever algo para o qual não existe um termo específico. 
+	- É uma espécie de "**metáfora desgastada**". 
+		- Exemplo: "Perna da mesa".
+- **Perífrase:**
+	- Conjunto de palavras para se **referir** a algo ou alguém **de forma indireta**, em vez de usar o nome específico.
+	- descrição mais elaborada para indicar uma ideia ou entidade
+	- Exemplos:
+		- **Perífrase**: "O astro-rei"
+		- **Significado**: O Sol.
+		- **Perífrase**: "Planeta Azul"
+		- **Significado**: Terra.
+- **Sinestesia:**
+	- **Mistura ou associação de diferentes sentidos **(visão, audição, tato, olfato e paladar) para criar uma expressão mais rica ou sensorialmente complexa.
+	- sensações de um sentido são descritas usando termos de outro
+	- Exemplos:
+		- **"Cheiro doce"** – mistura do olfato com o paladar.
+		- **"Som áspero"** – combinação de audição e tato.
+		- **"Luz fria"** – combinação de visão com tato.
+- **Eufemismo:**
+	- Usado para **suavizar ou atenuar** o impacto de uma ideia, palavra ou expressão que pode ser considerada desagradável, ofensiva, rude ou chocante.
+	- comum em situações onde se deseja ser mais polido ou sensível ao abordar temas delicados
+	- Exemplos:
+		- **"Ele passou desta para uma melhor"** – eufemismo para "Ele morreu".
+		- **"Pessoa de terceira idade"** – eufemismo para "idoso".
+		- **"Ele faltou com a verdade"** – eufemismo para "Ele mentiu".
+- **Metonímia:**
+	- **Substituição** de um termo por outro que lhe esteja próximo ou relacionado
+	- Pode ser uma parte pelo todo, o autor pela obra, o continente pelo conteúdo, entre outras.
+	- **Exemplo**: 
+		- "Li **Machado de Assis**." (Em vez de dizer que leu uma obra de Machado de Assis).
+- **Prosopopeia:**
+	- **Personificação**
+	- Atribuição de características humanas a seres inanimados ou a seres irracionais.
+	- **Exemplo**: "As árvores **sussurravam** com o vento."

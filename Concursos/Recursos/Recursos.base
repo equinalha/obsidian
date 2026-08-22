@@ -1,0 +1,22 @@
+# Recursos
+
+filters:
+  and:
+    - note["base"] == link("Recursos.base")
+properties:
+  file.name:
+    displayName: Name
+  Tags:
+    displayName: Tags
+  https://sqlfiddle.com/oracle/online-compiler:
+    displayName: https://sqlfiddle.com/oracle/online-compiler
+  Data:
+    displayName: Data
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Tags
+      - https://sqlfiddle.com/oracle/online-compiler
+      - Data

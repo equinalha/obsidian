@@ -1,0 +1,26 @@
+filters:
+  and:
+    - note["base"] == link("Concursos.base")
+properties:
+  file.name:
+    displayName: Page
+  Verification:
+    displayName: Verification
+  Tags:
+    displayName: Tags
+  Last edited time:
+    displayName: Last edited time
+  Owner:
+    displayName: Owner
+  Language:
+    displayName: Language
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Verification
+      - Tags
+      - Last edited time
+      - Owner
+      - Language

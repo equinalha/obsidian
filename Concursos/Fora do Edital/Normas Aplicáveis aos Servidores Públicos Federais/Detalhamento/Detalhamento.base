@@ -1,0 +1,16 @@
+# Detalhamento
+
+filters:
+  and:
+    - note["base"] == link("Detalhamento.base")
+properties:
+  file.name:
+    displayName: Name
+  Status:
+    displayName: Status
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Status

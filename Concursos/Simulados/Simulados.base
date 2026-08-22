@@ -1,0 +1,40 @@
+# Simulados
+
+filters:
+  and:
+    - note["base"] == link("Simulados.base")
+formulas:
+  "% Colocação": (((note["Desempenho"]/note["1o Colocado"]) - 1) * 100).round()
+properties:
+  file.name:
+    displayName: Prova
+  Desempenho:
+    displayName: Desempenho
+  Banca:
+    displayName: Banca
+  Obs:
+    displayName: Obs
+  1o Colocado:
+    displayName: 1o Colocado
+  Tipo:
+    displayName: Tipo
+  Obj:
+    displayName: Obj
+  Status:
+    displayName: Status
+  Data:
+    displayName: Data
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Desempenho
+      - Banca
+      - Obs
+      - 1o Colocado
+      - Tipo
+      - Obj
+      - Status
+      - Data
+      - formula.% Colocação

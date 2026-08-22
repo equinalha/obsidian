@@ -41,7 +41,7 @@ Description: ""
 
 ## Ciencia de dados vs BI
 
-![[Untitled 61.png]]
+![[Concursos/images/Untitled 61.png]]
 
 - BI
 	- Utiliza os dados de forma a descrever uma situação presente
@@ -117,7 +117,7 @@ Essas são apenas algumas maneiras pelas quais a empresa pode utilizar dados e a
 	- Multivariada: Uma variável independente e várias independentes
 - Cooeficiente de correlação de Pearson
 	- r
-![[Untitled 62.png]]
+![[Concursos/images/Untitled 62.png]]
 - Como fazer uma análise de regressão bivariada
 	- Diagrama de dispersão
 		- Varável independente no eixo horizontal
@@ -175,44 +175,44 @@ Sugestão: Avaliar as notas ruins, verificar se existe correlação com o tempo 
 # *Business Process Model and Notation* (BPMN)
 
 <!-- Column 1 -->
-![[Untitled 63.png|Iniciadores de processo]]
+![[Concursos/images/Untitled 63.png|Iniciadores de processo]]
 
 <!-- Column 2 -->
-![[Untitled 64.png|Intermediários]]
+![[Concursos/images/Untitled 64.png|Intermediários]]
 
 <!-- Column 1 -->
-![[Untitled 65.png|Términos de processo]]
+![[Concursos/images/Untitled 65.png|Términos de processo]]
 
-![[Untitled 66.png|Tarefas a seren executadas por pessoa ou sistema]]
+![[Concursos/images/Untitled 66.png|Tarefas a seren executadas por pessoa ou sistema]]
 
-![[Untitled 67.png|Conectores]]
+![[Concursos/images/Untitled 67.png|Conectores]]
 
-![[Untitled 68.png|Raias]]
+![[Concursos/images/Untitled 68.png|Raias]]
 
 <!-- Column 2 -->
-![[Untitled 69.png|Desvio de fluxo]]
+![[Concursos/images/Untitled 69.png|Desvio de fluxo]]
 
-![[Untitled 70.png|Conjuntos de atividades dentro de um processo]]
+![[Concursos/images/Untitled 70.png|Conjuntos de atividades dentro de um processo]]
 
-![[Untitled 71.png]]
+![[Concursos/images/Untitled 71.png]]
 
-![[Untitled 72.png|Piscina]]
+![[Concursos/images/Untitled 72.png|Piscina]]
 
 
 ## Exemplos
 
 <!-- Column 1 -->
-![[Untitled 73.png|Fluxo simples não necessita de piscinas]]
+![[Concursos/images/Untitled 73.png|Fluxo simples não necessita de piscinas]]
 
-![[Untitled 74.png|Processo com raias]]
+![[Concursos/images/Untitled 74.png|Processo com raias]]
 
-![[Untitled 75.png|subprocessos contraídos]]
+![[Concursos/images/Untitled 75.png|subprocessos contraídos]]
 
 
 <!-- Column 2 -->
-![[Untitled 76.png|Processo com piscinas]]
+![[Concursos/images/Untitled 76.png|Processo com piscinas]]
 
-![[Untitled 77.png|Processo com piscinas e raias]]
+![[Concursos/images/Untitled 77.png|Processo com piscinas e raias]]
 
 <!-- Column 1 -->
 
@@ -220,13 +220,13 @@ Sugestão: Avaliar as notas ruins, verificar se existe correlação com o tempo 
 <!-- Column 2 -->
 
 
-![[Untitled 78.png]]
+![[Concursos/images/Untitled 78.png]]
 
-![[Untitled 79.png]]
+![[Concursos/images/Untitled 79.png]]
 
-![[Untitled 80.png]]
+![[Concursos/images/Untitled 80.png]]
 
-![[Untitled 81.png]]
+![[Concursos/images/Untitled 81.png]]
 
 # ATP
 

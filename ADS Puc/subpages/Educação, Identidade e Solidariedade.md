@@ -7,7 +7,7 @@ Description: ""
 ---
 Filosofia, ética, teologia, solidariedade
 
-![[Untitled 33.png]]
+![[Concursos/images/Untitled 33.png]]
 
 # Solidariedade
 
@@ -38,25 +38,25 @@ Filosofia, ética, teologia, solidariedade
 
 # Exemplo trabalho final
 
-![[Untitled 34.png]]
+![[Concursos/images/Untitled 34.png]]
 
-![[Untitled 35.png]]
+![[Concursos/images/Untitled 35.png]]
 
-![[Untitled 36.png]]
+![[Concursos/images/Untitled 36.png]]
 
-![[Untitled 37.png]]
+![[Concursos/images/Untitled 37.png]]
 
-![[Untitled 38.png]]
+![[Concursos/images/Untitled 38.png]]
 
-![[Untitled 39.png]]
+![[Concursos/images/Untitled 39.png]]
 
-![[Untitled 40.png]]
+![[Concursos/images/Untitled 40.png]]
 
-![[Untitled 41.png]]
+![[Concursos/images/Untitled 41.png]]
 
-![[Untitled 42.png]]
+![[Concursos/images/Untitled 42.png]]
 
-![[Untitled 43.png]]
+![[Concursos/images/Untitled 43.png]]
 
 # Desenvolvimento sustentável
 
@@ -92,22 +92,22 @@ Filosofia, ética, teologia, solidariedade
 
 - **EcoViver**
 
-![[Untitled 44.png]]
+![[Concursos/images/Untitled 44.png]]
 
 - Ações de saneamento básico em comunidades afastadas e ribeirinhas
 	- Fossas ecológicas - Bacia de Evapotranspiração (BET)
 		- Bananeira
 		- Pneus
-![[Untitled 45.png]]
+![[Concursos/images/Untitled 45.png]]
 [http://revistadae.com.br/artigos/artigo_edicao_220_n_1822.pdf](http://revistadae.com.br/artigos/artigo_edicao_220_n_1822.pdf)
 	- Reaproveitamento do lixo reciclável localmente, para produção de utensílios e material de construção
-![[Untitled 46.png]]
-![[Untitled 47.png]]
-![[Untitled 48.png]]
-![[Untitled 49.png]]
-![[Untitled 50.png]]
-![[Untitled 51.png]]
-![[Untitled 52.png]]
+![[Concursos/images/Untitled 46.png]]
+![[Concursos/images/Untitled 47.png]]
+![[Concursos/images/Untitled 48.png]]
+![[Concursos/images/Untitled 49.png]]
+![[Concursos/images/Untitled 50.png]]
+![[Concursos/images/Untitled 51.png]]
+![[Concursos/images/Untitled 52.png]]
 	- Compostagem para produção de adubo orgânico
 	- Horta comunitária
 	- Tratamento da água para consumo
@@ -117,8 +117,8 @@ Filosofia, ética, teologia, solidariedade
 - Parcerias
 	- Médicos sem fronteiras
 	- Engenheiros sem fronteiras
-![[Untitled 53.png]]
-![[Untitled 54.png]]
+![[Concursos/images/Untitled 53.png]]
+![[Concursos/images/Untitled 54.png]]
 	- Comunidade (doações)
 	- Universidades
 
@@ -237,7 +237,7 @@ O rio Belém apresenta atualmente o maior índice de poluição hídrica dentre 
 	- Terceiro Setor
 		- Fundações sem fins lucrativos
 		- Organizações da sociedade civil sem fins lucrativos
-![[Untitled 55.png]]
+![[Concursos/images/Untitled 55.png]]
 - Tipos de organizações existentes no Brasil?;
 	- Não governamentais (ONG)
 	- Não mercantis
@@ -254,7 +254,7 @@ O rio Belém apresenta atualmente o maior índice de poluição hídrica dentre 
 - O que são negócios de impacto?;
 	- Objetivo de gerar implacto socioambiental
 	- Gerar resultado financeiro positivo de forma sustentável
-![[Untitled 56.png]]
+![[Concursos/images/Untitled 56.png]]
 - Quais as formas de geração de impacto socioambiental?;
 - Quais são as características de Iniciativas formais e informais?
 
@@ -262,7 +262,7 @@ O rio Belém apresenta atualmente o maior índice de poluição hídrica dentre 
 
 5 W: What (o que será feito?) – Why (por que será feito?) – Where (onde será feito?) – When (quando?) – Who (por quem será feito?) 2H: How (como será feito?) – How much (quanto vai custar?)) que é utilizada em planejamento estratégico, vamos conversar sobre as pequenas adaptações para o nosso contexto.
 
-![[Untitled 57.png]]
+![[Concursos/images/Untitled 57.png]]
 
 # Revisão
 

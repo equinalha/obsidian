@@ -1,0 +1,21 @@
+---
+
+---
+- Separação de Textos
+	- Envolve dividir um dado de tipo texto em partes menores ou componentes, o que pode ser útil para estruturar dados que inicialmente não estão organizados.
+- Limpeza de dados
+	- Remoção de dados inconsistentes, duplicados, incompletos ou inválidos.
+- Conversão de tipo
+	- Alterar o tipo de dado de um campo para que corresponda ao tipo esperado no sistema de destino.
+- Normalização
+	- Ajustar dados para um formato comum, removendo redundâncias e inconsistências.
+- Agregação
+	- Consolidar dados para fornecer resumos ou estatísticas
+- Filtragem
+	- Selecionar subconjuntos de dados com base em critérios específicos
+- Enriquecimento
+	- Adicionar informações de fontes externas para aumentar o valor dos dados
+- Pivotagem
+	- Transformar dados de uma estrutura vertical (longa) para uma estrutura horizontal (larga), ou vice-versa.
+- Derivação
+	- Criar novos campos a partir de dados existentes.

@@ -650,8 +650,8 @@ Otimização do insertion**
         Passo 3: Junta na árvore original
         Passo 4: Rotação à direita
 ![[ADS Puc/images/Untitled 14.png]]
-![[nse-6779031373762075482-1000064235.jpg]]
-![[nse-3696523304561482442-1000064242.jpg]]
+![[Concursos/images/nse-6779031373762075482-1000064235.jpg]]
+![[Concursos/images/nse-3696523304561482442-1000064242.jpg]]
     ## Remoção
     ESTRATÉGIA 1
 PASSO 1: IDENTIFIQUE O ELEMENTO QUE VOCÊ DESEJA RETIRAR DA ÁRVORE (EM VERMELHO)
@@ -871,29 +871,29 @@ Nesse exemplo, cada coluna (Masculino, Feminino, Outro) tem um **bitmap**, e um 
 
 ![[Poscomp/images/image 11.png]]
 
-![[image 12.png]]
+![[Concursos/images/image 12.png]]
 
-![[image 13.png]]
+![[Concursos/images/image 13.png]]
 
-![[image 14.png]]
+![[Concursos/images/image 14.png]]
 
-![[image 15.png]]
+![[Concursos/images/image 15.png]]
 
-![[image 16.png]]
+![[Concursos/images/image 16.png]]
 
-![[image 17.png]]
+![[Concursos/images/image 17.png]]
 
-![[image 18.png]]
+![[Concursos/images/image 18.png]]
 
-![[image 19.png]]
+![[Concursos/images/image 19.png]]
 
-![[image 20.png]]
+![[Concursos/images/image 20.png]]
 
-![[image 21.png]]
+![[Concursos/images/image 21.png]]
 
-![[image 22.png]]
+![[Concursos/images/image 22.png]]
 
-![[image 23.png]]
+![[Concursos/images/image 23.png]]
 
 # Arquitetura de Computadores
 
@@ -1068,9 +1068,9 @@ $S \Rightarrow AB \Rightarrow Ab \Rightarrow ab$
 
 ## Hierarquia de Chomsky
 
-![[image 24.png]]
+![[Concursos/images/image 24.png]]
 
-![[image 25.png]]
+![[Concursos/images/image 25.png]]
 
 ### Tipo 0
 
@@ -1123,7 +1123,7 @@ $S \Rightarrow AB \Rightarrow Ab \Rightarrow ab$
 	- 4. **Estados de Aceitação/Finais (F):** Se a máquina terminar de ler a palavra e parar em um desses estados, a palavra é aceita.
 	- 5. **Função de Transição (**$\delta$**):** O manual de regras que diz: "Se você está no estado X e ler o símbolo Y, vá para o estado Z".
 - Exemplo: Elevador
-![[image 26.png]]
+![[Concursos/images/image 26.png]]
 - Autômato finito
 	- Determinístico
 		- A partir de um determinado estado e do símbolo lido
@@ -1151,13 +1151,13 @@ $S \Rightarrow AB \Rightarrow Ab \Rightarrow ab$
 		- Possui uma unidade de leitura
 		- Movimenta-se exclusivamente para a direita
 		- Lê somente uma célula da fita por vez
-![[image 27.png]]
+![[Concursos/images/image 27.png]]
 	- Programa, função programa ou transição
 		- Comanda a leitura
 		- Determina as transições
 		- $\delta(P,a)=q$
 			- Se o estado atual é p e o símbolo lido for a, vá para o estado q
-![[image 28.png]]
+![[Concursos/images/image 28.png]]
 - Definição formal:
 	- $M = (\Sigma,Q,\delta,q_0,F)$
 		- $\Sigma$ → Alfabeto
@@ -1165,8 +1165,8 @@ $S \Rightarrow AB \Rightarrow Ab \Rightarrow ab$
 		- $\delta$ → Função de transição
 		- $q_0$ → Estado inicial
 		- F → Subconjunto de Q, estados finais
-![[image 29.png]]
-![[image 30.png]]
+![[Concursos/images/image 29.png]]
+![[Concursos/images/image 30.png]]
 - Palavra aceita:
 	- Após processar o último símbolo, parou no estado final
 - Palavra não aceita:
@@ -1216,7 +1216,7 @@ $S \Rightarrow AB \Rightarrow Ab \Rightarrow ab$
 	- Finalizar em um estado final
 	- **A pilha estar vazia**
 
-![[image 31.png]]
+![[Concursos/images/image 31.png]]
 
 - $(b,B,\epsilon)$
 	- b → Entrada
@@ -1364,10 +1364,10 @@ Em teoria de banco de dados, avaliamos o grau de "perfeição" de um escalonamen
 - No java (linguagem híbrida) o backend fica dentro da JVM
 
 <!-- Column 1 -->
-![[image 32.png]]
+![[Concursos/images/image 32.png]]
 
 <!-- Column 2 -->
-![[image 33.png]]
+![[Concursos/images/image 33.png]]
 
 ## Analisador Léxico
 
@@ -1394,20 +1394,20 @@ Em teoria de banco de dados, avaliamos o grau de "perfeição" de um escalonamen
 			- tipo de retorno
 - Exemplo de análise léxica
 
-![[image 34.png]]
+![[Concursos/images/image 34.png]]
 
 - Especificação dos tokens
 	- Se dá por expressões regulares
 - Reconhecimento de tokens
 	- Autômatos finitos
 	- Exemplos: 
-![[image 35.png|Reconhecimento de números]]
-![[image 36.png|Reconhecimento de identificadores (nomes de variáveis)]]
-![[image 37.png|Reconhecimento da palavra if (palavra reservada da linguagem)]]
+![[Concursos/images/image 35.png|Reconhecimento de números]]
+![[Concursos/images/image 36.png|Reconhecimento de identificadores (nomes de variáveis)]]
+![[Concursos/images/image 37.png|Reconhecimento da palavra if (palavra reservada da linguagem)]]
 	- No caso de palavras reservadas, praticamente existe um autômato para cada palavra
-![[image 38.png|Reconhecimento de todas as palavras reservadas da linguagem]]
+![[Concursos/images/image 38.png|Reconhecimento de todas as palavras reservadas da linguagem]]
 	- Processo de reconhecimento de tokens:
-![[image 39.png]]
+![[Concursos/images/image 39.png]]
 	- O `algoritmo de Thompson` converte a expressão regular em um autômato não determinístico
 	- O `método dos subconjuntos` converte o autômato não determinístico em um autômato determinístico
 	- O autômato determinístico pode ser convertido em programa
@@ -1434,11 +1434,11 @@ Em teoria de banco de dados, avaliamos o grau de "perfeição" de um escalonamen
 	- **Símbolo de partida:** Um não terminal usado como raiz da árvore
 	- **Regras de produção**: Como terminais e não terminais se combinam para formar cadeias
 - Classificação das GLC
-![[image 40.png]]
+![[Concursos/images/image 40.png]]
 - **Ambiguidade**
 	- Quando uma gramática permite que se crie mais de uma árvore de derivação para a mesma sentença
 - **Recursividade à esquerda**
-![[image 41.png]]
+![[Concursos/images/image 41.png]]
 - A classificação dos analisadores sintáticos gira em torno da **direção** em que eles tentam construir a Árvore de Sintaxe
 
 ### **Analisadores Top-Down (Descendente)**
@@ -1447,7 +1447,7 @@ Em teoria de banco de dados, avaliamos o grau de "perfeição" de um escalonamen
 - Parte-se de um símbolo não terminal, que é o símbolo inicial da gramática e tenta-se chegar na mesma estrutura dos tokens digitados.
 - Se isso for possível, a sintaxe está correta.
 - Exemplo:
-![[image 42.png|Exemplo de análise sintática usando árvore de derivação]]
+![[Concursos/images/image 42.png|Exemplo de análise sintática usando árvore de derivação]]
 - **Utilizam uma gramática LL (como o analisador *****LL(1)*****).**
 	- **L** (*Left-to-right*): Leem o código da esquerda para a direita.
 	- **L** (*Leftmost derivation*): Sempre tentam expandir o não-terminal mais à esquerda primeiro.
@@ -1470,7 +1470,7 @@ Em teoria de banco de dados, avaliamos o grau de "perfeição" de um escalonamen
 			- Utiliza uma tabela de análise (Tabela M) para determinar a produção a ser utilizada em cada não terminal
 			- Sempre que no topo da pilha tiver um símbolo terminal, este é comparado com o símbolo mais a esquerda da expressão.
 			- Caso sejam iguais, ambos são removidos e a análise recomeça a partir do próximo símbolo, usando a pilha como ficou
-![[image 43.png]]
+![[Concursos/images/image 43.png]]
 
 ### **Analisadores Bottom-Up (Ascendente)**
 
@@ -1510,8 +1510,8 @@ Em teoria de banco de dados, avaliamos o grau de "perfeição" de um escalonamen
 	- Definido por regra semântica com base nos atributos do pai, irmãos ou do próprio nó
 - Atributos sintetizados
 	- Calculado com base nos atributos dos filhos deste nó
-![[image 44.png]]
-![[image 45.png]]
+![[Concursos/images/image 44.png]]
+![[Concursos/images/image 45.png]]
 	- No exemplo acima forma-se uma dependência circular
 	- Resolve-se pela construção de um grafo de dependência
 	- Cada símbolo não terminal torna-se um vértice no grafo
@@ -1525,7 +1525,7 @@ Em teoria de banco de dados, avaliamos o grau de "perfeição" de um escalonamen
 	- Utiliza fragmentos de código anexados às regras
 	- Mais eficientes
 		- X.a → Símbolo não terminal X com um atributo a
-![[image 46.png]]
+![[Concursos/images/image 46.png]]
 	- **Pós-fixado**
 		- Todas as ações são colocadas no final da produção
 		- São executadas durante a redução
@@ -1535,7 +1535,7 @@ Em teoria de banco de dados, avaliamos o grau de "perfeição" de um escalonamen
 		- Executadas após a derivação do símbolo à esquerda
 		- Implementam SDD L-Atribuídas com gramáticas LL
 	- Utiliza atributos anexados à gramática para montar a notação pós-fixa final
-![[image 47.png]]
+![[Concursos/images/image 47.png]]
 
 ## Analisador Semântico
 
@@ -1703,7 +1703,7 @@ Em teoria de banco de dados, avaliamos o grau de "perfeição" de um escalonamen
 		- Mas quando você olha para uma estrada comprida, a textura sofre distorção oblíqua (ela é esmagada no eixo Z, mas não no eixo X). 
 		- O filtro anisotrópico lê a textura em formatos retangulares que acompanham o ângulo de visão da câmera.
 
-![[image 48.png]]
+![[Concursos/images/image 48.png]]
 
 ## 6- Framebuffer (Blending)
 
