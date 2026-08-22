@@ -200,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 391.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,7 +222,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "2beb81a4a447accd",
+  "active": "9762d0c0857ccd5c",
   "lastOpenFiles": [
     "Concursos/Banco de dados/ADABAS.md",
     "Concursos.md",
