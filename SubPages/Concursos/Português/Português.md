@@ -7,29 +7,17 @@ Owner:
   - Eduardo Quinalha
 ---
 [[Ortografia e acentuação]]
-
 [[Classes de Palavras]]
-
 [[Concordância Nominal]]
-
 [[Concordância Verbal]]
-
 [[Coerência e Coesão Textual]]
-
 [[Interpretação de Textos - Tipologia Textual]]
-
 [[Figuras de Linguagem]]
-
 [[Crase]]
-
 [[Verbos]]
-
 [[Que e Se]]
-
 [[Colocação Pronominal]]
-
 [[Pronomes Relativos]]
-
 [[Pontuação]]
 
 # Aulão 01

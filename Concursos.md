@@ -238,4 +238,35 @@ Engenharia de Software, Gestão de Projetos e Governança de TI
 >[[SCAP]]
 ---
 
-
+# Legislação
+---
+>[!col]
+>[[Organização Administrativa]]
+>[[Atos Administrativos]]
+>[[Agentes Públicos]]
+>[[Poderes Administrativos]]
+>[[Licitações]]
+>[[Controle da Administração Pública]]
+>[[Responsabilidade Civil do Estado]]
+>[[Direito Administrativo]]
+>[[Resoluções e Portarias do CNJ]]
+>[[MP e Lei 85-1999]]
+>[[Lei 12.527-2011 - LAI e Res CNMP 89-2012]]
+>[[Lei 13.709-2018 - LGPD]]
+>[[Lei 10.048-2000 - Prioridade]]
+>
+>[[Português]]
+>[[Discursiva]]
+>[[Fora do Edital]]
+>[[Raciocínio Lógico]]
+>[[Lista de Bizus]]
+>[[Revisão de Véspera]]
+>
+>[[Linux - Módulos, Bootloader, etc]]
+>[[Windows - Drivers, serviços e aplicações]]
+>[[C17 e C++17]]
+>[[Rust]]
+>[[Python]]
+>[[Qt Framework]]
+>[[OpenSSL 3]]
+>[[LibCurl]]

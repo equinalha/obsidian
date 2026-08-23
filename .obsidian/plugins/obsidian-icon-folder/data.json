@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#8f66ff",
     "recentlyUsedIcons": [
-      "FasA",
-      "🔒",
-      "LiWifi",
-      "SiMicrosoft",
-      "🔐"
+      "LiLogOut",
+      "🚧",
+      "✍",
+      "⚖",
+      "🧑‍⚖️"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -436,5 +436,11 @@
   "SubPages/Concursos/Redes/VoIP e Multimídia.md": "📞",
   "SubPages/Concursos/Embarcados/Windows - Drivers, serviços e aplicações.md": "SiMicrosoft",
   "SubPages/Concursos/Redes/Wireless, PNAC, EAP e PEAP.md": "LiWifi",
-  "SubPages/Concursos/Segurança/Zero Trust, SDP, PAM, IAM.md": "🔒"
+  "SubPages/Concursos/Segurança/Zero Trust, SDP, PAM, IAM.md": "🔒",
+  "SubPages/Concursos/Licitações/Licitações.md": "🧑‍⚖️",
+  "SubPages/Concursos/Direito Administrativo/Direito Administrativo.md": "⚖",
+  "SubPages/Concursos/Português/Português.md": "✍",
+  "SubPages/Concursos/Fora do Edital/PMBOK 6.md": "🚧",
+  "SubPages/Concursos/Fora do Edital/Direito Eleitoral.md": "⚖",
+  "SubPages/Concursos/Fora do Edital/Fora do Edital.md": "LiLogOut"
 }
