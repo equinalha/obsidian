@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Organização Pessoal.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -209,6 +209,14 @@
   },
   "active": "4df05c449027129e",
   "lastOpenFiles": [
+    "MPPR.mdenc",
+    "Mestrado.md",
+    "Concursos.md",
+    "ADS - PUC-PR.base",
+    "SubPages/ADS - PUC-PR/Dispositivos móveis.md",
+    "SubPages/ADS - PUC-PR/DevOps.md",
+    "SubPages/ADS - PUC-PR/CSS.md",
+    "SubPages/ADS - PUC-PR/Cloud.md",
     "Organização Pessoal.md",
     "Pessoal/Organização Pessoal/Automation - IoT - DIY/Automation - IoT - DIY.md",
     "Pessoal/Organização Pessoal/Linux/Linux.md",
@@ -229,12 +237,6 @@
     "Pessoal/Organização Pessoal/TR4/Reforma Carro.md",
     "Pessoal/Organização Pessoal/My Home/My Home.md",
     "TRE-PR.mdenc",
-    "Poscomp.md",
-    "MPPR.mdenc",
-    "Concursos.md",
-    "Pessoal/Organização Pessoal/Carta Isabel - Votos.md",
-    "Pessoal/Organização Pessoal/Carta Isabel - 12-24.md",
-    "Pessoal/Organização Pessoal/Astronomia.md",
     "SubPages/Pessoal/images/ultimate-quad-training-guide.png",
     "SubPages/Pessoal/images/Product-Counter-ESP32-CAM-1080x606.jpg",
     "SubPages/Pessoal/images/Murmúrios Da Terra.png",
@@ -244,8 +246,6 @@
     "SubPages/Pessoal/images/0ddb7797-bd80-4c8d-81be-3f4d0cae257b.jpeg",
     "SubPages/Pessoal/images",
     "SubPages/Pessoal",
-    "Pessoal/Organização Pessoal/Tarefas/Pagar IPVA do Ka.md",
-    "Pessoal/Organização Pessoal/Tarefas/Pagar IPTU.md",
     "Pessoal/Organização Pessoal/Tarefas/Tarefas.base",
     "Pessoal/Organização Pessoal/Tarefas",
     "SubPages/Pessoal/images/Brave New World.jpeg",
@@ -254,7 +254,6 @@
     "Pessoal/Organização Pessoal/Reading List/Reading List.base",
     "Pessoal/Organização Pessoal/Reading List",
     "Pessoal/Organização Pessoal/Health",
-    "Pessoal/Organização Pessoal/Music",
     "Sem título.canvas"
   ]
 }

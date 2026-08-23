@@ -1,9 +1,9 @@
 ---
 
 ---
-
-
+---
 >[!col]
+>>[!col-md]
 >># <span style="color: var(--notion-green)"> Anotações </span>
 >>[[My Home]]
 >>[[TR4]]
@@ -20,6 +20,7 @@
 >>[[Finanças]]
 >>[[Gastronomia e Receitas]]
 >
+>>[!col-md]
 >># <span style="color: var(--notion-red)"> Learning </span>
 >>[[Hacks & Privacy]]
 >>[[Como escrever documentações]]
@@ -36,6 +37,7 @@
 >>[[Cuidados Pessoais]]
 >>[[IA]]
 >
+>>[!col-md]
 >># <span style="color: var(--notion-yellow)"> Outros </span>
 >>[[Estratégia Academy 2024]]
 >>[[Carta Isabel - 12-24]]
