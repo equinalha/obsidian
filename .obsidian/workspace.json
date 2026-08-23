@@ -4,23 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "772a870af6a3ff0e",
+        "id": "86265858cedc72f1",
         "type": "tabs",
         "children": [
           {
-            "id": "9b97d55f07420eb0",
+            "id": "4df05c449027129e",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Tweets/Tweets.base",
-                "viewName": "Table View"
+                "file": "Concursos/Banco de dados/ADABAS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Tweets"
+              "icon": "lucide-file",
+              "title": "ADABAS"
+            }
+          },
+          {
+            "id": "2beb81a4a447accd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concursos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Concursos"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 311.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,54 +222,54 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "9b97d55f07420eb0",
+  "active": "9762d0c0857ccd5c",
   "lastOpenFiles": [
-    "Tweets/subpages/4 different ways to create an Ajax request in Javascript.md",
-    "Tweets/Tweets.base",
-    "Tweets/subpages/🛣️ Full Stack Web Development Roadmap.md",
-    "Tweets/subpages/🧵 THREAD DE ATALHOS DO VSCODE QUE EU USO.md",
-    "Tweets/subpages/🔷 VS Code Tricks You Must Know.md",
-    "Tweets/subpages/✨ React JS Reference sheet for beginners ✨.md",
-    "Tweets/images",
-    "Tweets/images/Pasted image 20260821173542.png",
-    "Tweets/subpages/✨ Different ways to create Objects in Javascript✨.md",
-    "Tweets/subpages/-1 How do you decide which type of database to use.md",
-    "TRE-PR/TRE-PR.mdenc",
-    "Tweets/tweet_prps.png",
-    "Tweets/subpages/Welcome!.md",
-    "Tweets/subpages/Great shoulder and neck exercises 👍 https--t.co-rC3C5vDTsp.md",
-    "Tweets/subpages/Here's how to make the paper airplane that set the world record for distance.md",
-    "Tweets/subpages/Fighter plane orgami.md",
-    "Tweets/subpages/Before age 40, you need to read these 12 books.md",
-    "Tweets/subpages/The top 10 body language mistakes 99% of men make (and how to fix them.md",
-    "Tweets/subpages/Yesterday, an old friend sent me an Instagram DM asking me for help for a contest. The custom link was a bit weird as it didn't have any.md",
-    "Tweets/subpages/Jenkins is an open source automation server you can use to build, test, and deploy software.md",
-    "Tweets/subpages/Top 5 Resources for DevOps.md",
-    "Tweets/subpages/7 projects you can build to improve your web dev skills.md",
-    "Tweets/subpages/Top 5 Youtube channels to learn Notion skills.md",
-    "Tweets/subpages/Introducing 24 web-application hacking tools.md",
-    "Tweets/subpages/Find bugs into email input.md",
-    "Tweets/subpages/If you're not using AI or no-code, you're falling behind.md",
-    "Tweets/subpages/Build your next website in minutes.md",
-    "Tweets/subpages/Cómo crear un par de pozos sin fondo en el salón.md",
-    "Tweets/subpages/Entender os fundamentos de Git é necessário para quem não quer se deixar dominar pela ferramenta.md",
-    "Tweets/subpages/React is the most popular frontend framework in web development.md",
-    "Tweets/subpages/How to tie a tarp corner knot to make shelter or tent.md",
-    "Tweets/subpages",
-    "Tweets",
-    "ADS Puc/ADS - PUC-PR.base",
-    "ADS Puc/images/0de99dde7c861d9583927ae0387e9ce4b34d45ca.jpg",
-    "ADS Puc/images",
-    "ADS Puc/subpages/Segurança da Informação/New database/New database.base",
-    "ADS Puc/images/Untitled 99.png",
-    "ADS Puc/images/Untitled 98.png",
-    "ADS Puc/images/Untitled 97.png",
-    "ADS Puc/images/Untitled 96.png",
-    "ADS Puc/images/Untitled 95.png",
-    "ADS Puc/images/Untitled 94.png",
-    "ADS Puc/images/Untitled 93.png",
-    "ADS Puc/subpages/Segurança da Informação/New database",
-    "ADS Puc/subpages/Segurança da Informação",
+    "Concursos/Banco de dados/ADABAS.md",
+    "Concursos.md",
+    "Concursos/Banco de dados/Banco de Dados.md",
+    "Concursos/Banco de dados/SQL.md",
+    "Concursos/Banco de dados/Álgebra Relacional.md",
+    "Concursos/Redes/VLAN (802.1q e 802.1p).md",
+    "Concursos/Geral/TSE - Recursos Discursivas.md",
+    "Concursos/Redes/SSL-TLS.md",
+    "Concursos/Segurança/SCAP.md",
+    "Concursos/Sem título.md",
+    "Concursos/Geral/Raciocínio Lógico.md",
+    "Concursos/Português/Ortografia e acentuação.md",
+    "Concursos/Banco de dados/Oracle.md",
+    "Concursos/Banco de dados/NoSQL, NewSQL.md",
+    "Concursos/Redes/NAT, ARP, RARP e ICMP.md",
+    "Concursos/Banco de dados/MS SQL Server.md",
+    "Concursos/Banco de dados/Modelo Relacional e Normalização.md",
+    "Concursos/Banco de dados/Modelo Entidade-Relacionamento (MER).md",
+    "Concursos/Banco de dados/Mapeamento Objeto Relacional.md",
+    "Concursos/Banco de dados/Machine Learning.md",
+    "Concursos/Geral/Lista de Bizus.md",
+    "Concursos/Direito/Lei 10.048-2000 - Prioridade.md",
+    "Concursos/Segurança/ISO 27001 - 27002.md",
+    "Concursos/Redes/IPv4 e IPv6.md",
+    "Concursos/Segurança/IPSec.md",
+    "Concursos/Português/Interpretação de Textos - Tipologia Textual.md",
+    "Concursos/Concursos.base",
+    "Concursos/Embarcados",
+    "Concursos/Gestão e Governança",
+    "Concursos/Segurança",
+    "Concursos/Geral",
+    "Concursos/Direito",
+    "Concursos/Banco de dados",
+    "Concursos/Redes",
+    "_Concursos_/subpages/Microservices/New database/New database.base",
+    "Concursos/images/Pasted image 20260822154029.png",
+    "Concursos/Infra",
+    "Concursos/images/0g8YP7IhUsgnZov8e.png",
+    "Concursos/images/Untitled 863.png",
+    "Concursos/images/Untitled 862.png",
+    "Concursos/images/Untitled 861.png",
+    "Concursos/images/Untitled 860.png",
+    "Concursos/images/Untitled 859.png",
+    "Concursos/images/Untitled 858.png",
+    "Concursos/images/Untitled 857.png",
+    "Concursos/images/Untitled 856.png",
     "Sem título.canvas"
   ]
 }

@@ -19,6 +19,19 @@
     "Desempenho": "number",
     "Link": "text",
     "Author": "text",
-    "Tweet Link": "text"
+    "Tweet Link": "text",
+    "Column 1": "text",
+    "Column 2": "multitext",
+    "Verification": "text",
+    "Last edited time": "datetime",
+    "Owner": "multitext",
+    "Language": "text",
+    "https://sqlfiddle.com/oracle/online-compiler": "text",
+    "Data": "date",
+    "Banca": "text",
+    "Obs": "text",
+    "1o Colocado": "number",
+    "Tipo": "text",
+    "Obj": "text"
   }
 }

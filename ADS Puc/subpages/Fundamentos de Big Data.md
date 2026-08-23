@@ -59,7 +59,7 @@ Description: ""
 		- Armazena backup dos metadados
 		- Testa as transações
 
-![[Untitled 58.png]]
+![[Concursos/images/Untitled 58.png]]
 
 ```shell
 hadoop fs -copyFromLocal <arquivo> <pasta no HDFS>
@@ -208,4 +208,4 @@ hadoop fs -copyToLocal output/part-r-00000
 
 ```
 
-![[Untitled 59.png]]
+![[Concursos/images/Untitled 59.png]]

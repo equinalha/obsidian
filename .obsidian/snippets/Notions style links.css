@@ -21,6 +21,11 @@
     align-items: center !important;
     gap: 8px !important; /* Espaçamento exato entre o ícone e o texto */
     width: fit-content !important;
+
+    white-space: nowrap !important; /* Impede que o texto pule para a linha de baixo */
+    overflow: hidden !important; /* Esconde o texto que ultrapassar a largura da coluna */
+    text-overflow: ellipsis !important; /* Adiciona as reticências "..." no corte */
+    max-width: 100% !important; /* Garante que o link respeite o limite da tela/coluna */
 }
 
 .cm-underline {
@@ -80,4 +85,23 @@
 
 div.inline-title {
     margin-bottom: 30px !important; /* Espaçamento vertical entre os itens estilo Notion */
+}
+
+/* Garante que o contêiner da lista não estique a coluna */
+.callout[data-callout*="col"] li {
+    max-width: 100% !important;
+    overflow: hidden !important;
+}
+
+/* 2. RESPONSIVIDADE PARA CELULAR (Empilhar colunas verticalmente) */
+@media (max-width: 768px) {
+    .callout[data-callout="col"], 
+    .callout[data-callout="col-md"] {
+        width: 100% !important; /* Força a coluna a ocupar 100% da largura da tela */
+        max-width: 100% !important;
+        flex: 0 0 100% !important; /* Anula o comportamento flex lado a lado */
+        display: block !important;
+        float: none !important; /* Remove o comportamento de grade/coluna */
+        margin-bottom: 24px !important; /* Adiciona um respiro entre uma coluna e outra na rolagem */
+    }
 }

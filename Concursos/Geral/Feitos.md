@@ -1,0 +1,180 @@
+---
+base: "[[Concursos.base]]"
+Verification: unverified
+Tags: []
+Last edited time: 2024-11-20T11:21:00
+Owner:
+  - Eduardo Quinalha
+---
+
+- [x] revisão e aprofundamento em algoritmos criptograficos: AES, Blowfish
+- [x] o que é BAS (Breach Attack Simulation)
+- [x] Revisar e aprofundar sobre firewall. 
+	- [x] Quais tecnologias são consideradas firewall (Proxy, NAT, filtros, etc.)
+	- [x] Revisar e aprofundar sobre proxy
+- [x] Revisar Algoritmos de Busca e Estruturas de dados
+- [x] Teste de Software
+	- [x] Conceitos: Erro, defeito, falha
+- [x] [https://www.estrategiaconcursos.com.br/blog/seguranca-informacao-iso-27001-2022/](https://www.estrategiaconcursos.com.br/blog/seguranca-informacao-iso-27001-2022/)
+	- [x] MER:
+		- [x] Relacionamento Identificado
+- [x] Python
+	- [x] Trabalhando com arquivos
+- [x] **Resolver o simulado do QConcursos!**
+- [x] xOps
+- [x] OAuth 2.0
+	- [x] Tipos de Tokens → Sender-constrained / ?
+- [x] Big Data - 5 V’s (leitura rápida)
+- [x] Engenharia de Requisitos
+	- [x] Matriz de Rastreabilidade
+		- [x] Rastreabilidade vertical vs horizontal
+- [x] Prova do TRE-BA 2017 [https://drive.google.com/drive/u/0/folders/1b1ATIrDGfzmoaufNzg4xyG8KNQ3cCPQq](https://drive.google.com/drive/u/0/folders/1b1ATIrDGfzmoaufNzg4xyG8KNQ3cCPQq)
+- [x] IEEE 802.3 (especifica também a camada física?)
+- [x] Revisar e aprofundar sobre STRIDE
+- [x] aprofundamento em SNMP, MIB e RMON
+- [x] Ler o Scrum Guide 2020
+- [x] SQL
+	- [x] LPAD
+	- [x] WITH
+	- [x] Praticar
+- [x] DevOps
+	- [x] Git → Forma de armazenamento dos arquivos
+- [x] Estrutura de dados
+	- [x] Grafos
+- [x] NewSQL
+- [x] Tipos de ataques
+	- [x] Eavesdropping
+	- [x] DNS Spoofing vs DNS Poisoning
+- [x] Banco de dados
+	- [x] ACID
+- [x] ISO 27001/27002
+	- [x] Memorizar os grupos menores
+	- [x] Memorizar detalhes 3 controles de cada grupo para fins de redação
+	- [x] **Saída da Análise Crítica da POSIC**
+	- [x] [https://www.estrategiaconcursos.com.br/blog/seguranca-informacao-iso-27002-2022/](https://www.estrategiaconcursos.com.br/blog/seguranca-informacao-iso-27002-2022/)
+- [x] Re-ler ISO 27001/2
+- [x] O que são padrões GRASP e qual a relação com os padrões GoF
+- [x] DDD - Domain Driven Design
+- [x] Low-code e No-code
+- [x] Mock e stubs
+- [x] Websockets
+- [x] Spring Boot + Docker
+	- [x] [https://spring.io/guides/topicals/spring-boot-docker/](https://spring.io/guides/topicals/spring-boot-docker/)
+	- [x] Separação em camadas
+- [x] Controle de fluxo vs Controle de congestionamento
+- [x] EAP / PEAP
+- [x] Revisar SSL e TLS
+	- [x] Uso do algoritmo RC4?
+- [x] Usabilidade de Software → Métodos de avaliação
+	- [x] SUS (System Usability Scale) no teste de usabilidade
+- [x] FDD
+- [x] COBIT 2019
+	- [x] Níveis
+	- [x] Compatibilidade com Ágil
+- [x] Revisar OAuth e Open ID Connect
+- [ ] OWASP Top 10 / Desenvolvimento Seguro
+	- [x] Buscar um resumo sobre as principais ameaças
+	- [x] Entender como funciona e como prevenir
+	- [ ] ISO/IEC 27034
+	- [ ] SAMM ou OpenSAMM
+	- [ ] OWASP ZAP
+	- [ ] guia de testes do OWASP
+- [x] PCN
+	- [x] Planos (contingência operacional)
+- [x] Gerenciamento de Riscos
+	- [x] ISO 27005
+	- [x] Gestão de Riscos (ISO 31000)
+- [x] ITIL 4
+- [x] PMBOK 7
+	- [x] Diagrama de redes. Como interpretar.
+- [x] Arquitetura de 4 camadas
+- [x] Arquitetura Cliente/Servidor
+	- [x] Multinível
+- [x] COBIT 2019 - Revisar
+	- [x] Entidades de tomada de decisão
+	- [x] Princípios básicos
+	- [x] Revisar os níveis de capacidade e maturidade
+- [x] APF
+	- [x] Estudar a parte conceitual IFPUG e NESMA
+- [x] PostgreSQL
+	- [x] Tipos de Índices
+- [x] Engenharia de Requisitos
+	- [x] Fases
+- [x] IA
+	- [x] Stabble Diffusion
+	- [x] Transformers
+- [x] HATEOAS
+- [x] [https://refactoring.guru/pt-br/design-patterns/catalog](https://refactoring.guru/pt-br/design-patterns/catalog)
+- [x] GRASP
+- [x] Arquitetura orientada a eventos
+- [x] Git
+- [x] Ativos primários
+- [x] Ativos secundários
+- [x] O comando git diff exibe as mudanças entre os commits, o commit, a árvore de trabalho etc.
+- [x] O comando **git rebase** redefine o HEAD atual para a condição especificada.
+- [x] O comando git stash armazena as alterações em um diretório fora do diretório de trabalho.
+- [x] O comando git revision exibe qual revisão e qual foi o autor que alterou cada linha de um arquivo pela última vez.
+- [x] O comando *git branch new-branch *cria uma nova *branch *local sem configurar o rastreamento automático de uma *branch *remota.
+- [x] O comando *git branch-track new-branch origin/new-branch *cria uma nova *branch *local e a configura para rastrear a *branch *remota *origin/new-branch*.
+- [x] O comando git branch-no-track new-branch cria uma nova branch e configura automaticamente o rastreamento de uma *branch *remota.
+- [x] O comando g*it branch -d new-branch *é utilizado para criar uma nova *branch *local.
+- [x] Imagine que seu software está armazenado no git e surge a necessidade de efetuar um *merge *normal de duas *branches *de sua aplicação. Qual o tipo de estratégia de mesclagem que o git irá utilizar para efetuar tal procedimento?
+- [x] Revisar PMBOK 7
+	- [x] Utilizar abordagem Topdown com chatGPT / PDF do Gran Concursos
+	- [x] Descrever a estrutura geral, domínios, chegar até os métodos e artefatos
+- [ ] Revisar SCRUM
+- [ ] Python
+	- [ ] List Comprehension
+- [ ] Mesma coisa para ITIL 4 e COBIT
+- [x] Arquitetura Hexagonal:
+	- [x] Portas primárias/secundárias
+	- [x] Adaptadores primários/secundários
+- [x] Revisar BDD
+- [x] Balanced Scorecard
+- [x] XFS
+- [x] fork() (linux)
+- [x] REST
+	- [x] Idempotente
+	- [x] Safe
+- [x] Java
+	- [x] Threads
+	- [x] Escopo de Classe
+- [x] Gestão de Backlog
+	- [x] Técnicas de priorização
+	- [x] MosCow
+- [x] Anti-SPAM
+	- [x] DMARC: [https://dmarc.org/overview/](https://dmarc.org/overview/)
+	- [x] SPF: [https://roadmap.sh/devops](https://roadmap.sh/devops)
+	- [x] DKIM
+	- [x] White/Gray List
+- [x] Leitura seca de norma
+	- [x] ISO 27001
+	- [x] ISO 27002
+	- [x] ISO 27005
+- [x] OWASP Top 10
+- [x] 14.133 → Lei Seca
+- [x] WPA vs WPA2
+- [x] Revisar DHCP
+- [x] **Revisar Algoritmos e Estruturas de dados**
+- [x] Scrum
+- [x] Qlik Sense
+- [x] Responder questões de Pandas e NumPy
+- [x] Google Looker
+- [x] Revisar UML
+- [x] Uso de ênclise, Próclise e Mesóclise
+- [x] Uso do QUE
+- [x] Revisar React e Angular
+- [x] Revisar MVC
+- [x] ITIL
+- [x] [https://www.akamai.com/pt/glossary/what-is-enterprise-cloud-security](https://www.akamai.com/pt/glossary/what-is-enterprise-cloud-security)
+- [x] PMBOK 7
+	- [x] Tailoring
+	- [x] Componentes do sistema de entrega de valor
+	- [x] **Escritório de gerenciamento de projetos**
+	- [x] **Sucesso do projeto vs sucesso do produto**
+- [x] [https://www.linkedin.com/posts/danrezende_conhecendo-o-amazon-s3-activity-7254116199796490241-aFzk?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/danrezende_conhecendo-o-amazon-s3-activity-7254116199796490241-aFzk?utm_source=share&utm_medium=member_desktop)
+- [x] SQL
+	- [x] Integridade referencial: CASCADE, RESTRICT
+- [x] **Resolver uma grande bateria de MVC da CEBRASPE**
+- [x] **Resolver uma grande batria de REST CEBRASPE**
+- [x] **SNMP**

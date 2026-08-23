@@ -106,13 +106,13 @@ Como **gerente do financeiro**, eu quero **poder consultar o saldo de todas as
 
 ![[ADS Puc/images/Untitled 18.png]]
 
-![[Untitled 19.png]]
+![[Concursos/images/Untitled 19.png]]
 
-![[Untitled 20.png]]
+![[Concursos/images/Untitled 20.png]]
 
 # 12 princípios de design
 
-![[Untitled 21.png]]
+![[Concursos/images/Untitled 21.png]]
 
 - Visibilidade
 	- Manter as funções visíveis ou pelo menos facilitar a localização do controle apropriado para a tarefa com agilidade
@@ -150,9 +150,9 @@ Para seu desenvolvimento, pergunte-se:
 - O que faz com que uma pessoa use o artefato?
 - Que tarefa está sendo ilustrada?
 
-![[Untitled 22.png]]
+![[Concursos/images/Untitled 22.png]]
 
-![[Untitled 23.png]]
+![[Concursos/images/Untitled 23.png]]
 
 # Avaliação
 
