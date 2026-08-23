@@ -47,7 +47,7 @@ Seu projeto foi selecionado para participar do desafio para desenvolver um novo 
 - Na segunda, você deve apresentar protótipos de um produto de software inovador, considerando às necessidades do Usuário; e,
 - Na última entrega, os resultados da avaliação heurística do protótipo desenvolvido. Atenciosamente, Gerente da TI.
 
-![[ADS Puc/images/Untitled 15.png]]
+![[SubPages/ADS - PUC-PR/images/Untitled 15.png]]
 
 ## **EXEMPLO**
 
@@ -59,7 +59,7 @@ UM CERTO DIA, ela descobriu um aplicativo de celular que mostra um mapa em tempo
 
 POR CAUSA DISSO, Romilda tem mais tempo para realizar atividades físicas, rotinas e tarefas antes de sair de casa para ir a faculdade, sem se preocupar em perder seu ônibus e chegar atrasada em sua faculdade ou qualquer outro lugar. ATÉ QUE FINALMENTE Romilda conseguiu, com o tempo extra, estudar inglês em casa, o que lhe gerou uma promoção no trabalho.
 
-![[ADS Puc/images/Untitled 16.png|Perfil de Usuário]]
+![[SubPages/ADS - PUC-PR/images/Untitled 16.png|Perfil de Usuário]]
 
 ## Persona
 
@@ -73,7 +73,7 @@ Persona é uma personagem fictícia, arquétipo hipotético de um grupo de usuá
 6. **Requisitos****:** quais são as necessidades?
 7. **Expectativas****:** como ela acredita que o produto funciona?
 
-![[ADS Puc/images/Untitled 17.png]]
+![[SubPages/ADS - PUC-PR/images/Untitled 17.png]]
 
 Em resumo, como criar uma persona?
 
@@ -104,7 +104,7 @@ Como **gerente do financeiro**, eu quero **poder consultar o saldo de todas as
 
 ## Mapa de estória do usuário
 
-![[ADS Puc/images/Untitled 18.png]]
+![[SubPages/ADS - PUC-PR/images/Untitled 18.png]]
 
 ![[SubPages/Concursos/images/Untitled 19.png]]
 

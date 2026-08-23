@@ -7,9 +7,9 @@ Description: ""
 ---
 # MQTT
 
-![[ADS Puc/images/Untitled 3.png]]
+![[SubPages/ADS - PUC-PR/images/Untitled 3.png]]
 
-![[ADS Puc/images/Untitled 4.png]]
+![[SubPages/ADS - PUC-PR/images/Untitled 4.png]]
 
 # Wildcards
 
@@ -30,22 +30,22 @@ Description: ""
 - Configurado no ato da conexão
 - Instrui sobre o que fazer se o dispositivo ficar inativo
 
-![[ADS Puc/images/Untitled 5.png]]
+![[SubPages/ADS - PUC-PR/images/Untitled 5.png]]
 
-![[ADS Puc/images/Untitled 6.png]]
+![[SubPages/ADS - PUC-PR/images/Untitled 6.png]]
 
-![[ADS Puc/images/Untitled 7.png]]
+![[SubPages/ADS - PUC-PR/images/Untitled 7.png]]
 
-![[ADS Puc/images/Untitled 8.png]]
+![[SubPages/ADS - PUC-PR/images/Untitled 8.png]]
 
-![[ADS Puc/images/Untitled 9.png]]
+![[SubPages/ADS - PUC-PR/images/Untitled 9.png]]
 
-![[ADS Puc/images/Untitled 10.png]]
+![[SubPages/ADS - PUC-PR/images/Untitled 10.png]]
 
-![[ADS Puc/images/Untitled 11.png]]
+![[SubPages/ADS - PUC-PR/images/Untitled 11.png]]
 
-![[ADS Puc/images/Untitled 12.png]]
+![[SubPages/ADS - PUC-PR/images/Untitled 12.png]]
 
-![[ADS Puc/images/Untitled 13.png]]
+![[SubPages/ADS - PUC-PR/images/Untitled 13.png]]
 
-![[ADS Puc/images/Untitled 14.png]]
+![[SubPages/ADS - PUC-PR/images/Untitled 14.png]]

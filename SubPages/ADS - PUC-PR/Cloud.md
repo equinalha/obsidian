@@ -38,7 +38,7 @@ Description: ""
 | **MDA** | Main Distribution Area | Onde fica o backbone, roteadores e cabeamento principal |
 | **ZDA** | Zona Distribution Area | Setor opcional. Divisão entre áreas de distribuição horizontal e de equipamentos |
 
-![[ADS Puc/images/Untitled.png]]
+![[SubPages/ADS - PUC-PR/images/Untitled.png]]
 
 # Computação em Nuvem
 
@@ -64,10 +64,10 @@ fornece uma infraestrutura composta de uma ou mais nuvens, que podem ser do tipo
 
 O sistema convidado não tem acesso direto ao hardware. Toda chamada é interceptada pelo hypervisor.
 
-![[ADS Puc/images/Untitled 1.png]]
+![[SubPages/ADS - PUC-PR/images/Untitled 1.png]]
 
 ## Paravirtualização
 
 O sistema convidado é modificado de forma que consegue ter acesso controlado ao hardware. Possui melhor desempenho que a virtualização total.
 
-![[ADS Puc/images/Untitled 2.png]]
+![[SubPages/ADS - PUC-PR/images/Untitled 2.png]]

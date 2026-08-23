@@ -319,3 +319,5 @@ FROM ""
 WHERE base = link("Simulados.base")
 SORT file.name ASC
 ```
+
+[[Aulão de Véspera - 30-11]]

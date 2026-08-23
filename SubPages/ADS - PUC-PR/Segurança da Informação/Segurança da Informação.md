@@ -1817,7 +1817,7 @@ A função *hash* que implementa o SHA-1 produz uma saída de hash de 160 b
 
 Na medida que um algoritmo de *hash* apresenta algum ponto fraco, deve ser imediatamente descontinuado. Neste sentido, novos algoritmos mais robustos são utilizados. Nesta linha de raciocínio, em 2005, o NIST informou a intenção de descontinuar a versão do SHA-1 e migrar para o SHA-2, fornecendo um prazo para transição ocorrer até 2010. Porém, por curiosidade uma equipe de pesquisa na área de segurança descreveu um ataque onde duas mensagens distintas poderiam gerar o mesmo valor *hash* no SHA-1 utilizando apenas 269 operações. Um número relativamente menor de operações que havia sido determinado que seria necessário para encontrar uma colisão em um *hash* SHA-1 [Wang,2005]. Esse resultado foi um dos grandes motivadores para acelerar o processo da transição do SHA-1 para o SHA-2. Na tabela abaixo é apresentado uma comparação entre os parâmetros do algoritmo SHA, exposto no FIPS 180-4, observe que o algoritmo SHA-512 possui outras duas versões que modificam o tamanho do resumo da mensagem, o SHA-512/224 e SHA-512/256.
 
-![[ADS Puc/subpages/Segurança da Informação/New database/New database.base]]
+![[New database.base]]
 
 Finalmente, destacamos que atualmente o FIPS 180-4 corresponde a última versão do documento disponibilizado pelo NIST, ou seja, a versão que está vigente.
 

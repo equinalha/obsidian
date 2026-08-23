@@ -11,14 +11,14 @@
             "id": "4df05c449027129e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "meld-encrypted-view",
               "state": {
-                "file": "Concursos.md",
-                "mode": "source",
+                "file": "MPPR.mdenc",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Concursos"
+              "title": "MPPR"
             }
           }
         ]
@@ -209,12 +209,21 @@
   },
   "active": "4df05c449027129e",
   "lastOpenFiles": [
-    "SubPages/Concursos/Simulados/Simulados.base",
+    "Mestrado.md",
     "Concursos.md",
+    "Tweets.base",
+    "TRE-PR.mdenc",
+    "Poscomp.md",
+    "MPPR.mdenc",
+    "ADS - PUC-PR.base",
+    "SubPages/Tweets/✨ React JS Reference sheet for beginners ✨.md",
+    "SubPages/TRE-PR/Apresentação CANDEX.mdenc",
+    "SubPages/Tweets",
+    "SubPages/ADS - PUC-PR",
+    "SubPages/Mestrado",
+    "SubPages/MPPR",
+    "SubPages/TRE-PR",
     "SubPages/Concursos/Simulados/2o Simulado Avançado TSE.md",
-    "TRE-PR/TRE-PR.mdenc",
-    "MPPR/MPPR.mdenc",
-    "SubPages/Concursos/Recursos/Recursos.base",
     "SubPages/Concursos/Recursos/Python Playground.md",
     "SubPages/Concursos/Recursos/Miro.md",
     "SubPages/Concursos/Recursos/Java Playground.md",
@@ -223,7 +232,6 @@
     "SubPages/Concursos/Recursos/Exercism.md",
     "SubPages/Concursos/Recursos/Engenharia de Software Moderna.md",
     "SubPages/Concursos/Recursos/Cursos do CNJ.md",
-    "Sem título.base",
     "SubPages/Concursos/Fora do Edital/Fora do Edital.md",
     "SubPages/Concursos/Fora do Edital/Inglês técnico.md",
     "SubPages/Concursos/Fora do Edital/Normas Aplicáveis aos Servidores Públicos Federais/Normas Aplicáveis aos Servidores Públicos Federais.md",
@@ -236,15 +244,6 @@
     "SubPages/Concursos/Licitações/Licitações.md",
     "SubPages/Concursos/Engenharia de Software/Gestão de Dívida Técnica.md",
     "SubPages/Concursos/Banco de dados/ADABAS.md",
-    "SubPages",
-    "SubPages/Concursos/Banco de dados/Banco de Dados.md",
-    "SubPages/Concursos/Banco de dados/SQL.md",
-    "SubPages/Concursos/Banco de dados/Álgebra Relacional.md",
-    "SubPages/Concursos/Concursos.base",
-    "SubPages/Concursos/Embarcados",
-    "SubPages/Concursos/Gestão e Governança",
-    "SubPages/Concursos/Segurança",
-    "SubPages/Concursos/Geral",
     "SubPages/Concursos/images/Pasted image 20260822154029.png",
     "SubPages/Concursos/images/0g8YP7IhUsgnZov8e.png",
     "SubPages/Concursos/images/Untitled 863.png",

@@ -51,11 +51,11 @@ Você monta e resolve um sistema de equações usando a equação do gradiente e
 2. $g(x,y) = 0$ *(A restrição original garante que você não estoure o orçamento)*
 
 <!-- Column 1 -->
-![[Poscomp/images/image.png]]
+![[SubPages/Poscomp/images/image.png]]
 
 
 <!-- Column 2 -->
-![[Poscomp/images/image 1.png]]
+![[SubPages/Poscomp/images/image 1.png]]
 
 > [!note] ### Exemplo
 > Imagine que você tem uma folha de papelão que mede $12 \text{ cm}^2$. Você quer construir uma caixa (sem tampa) com o maior volume possível usando exatamente essa quantidade de material.
@@ -310,7 +310,7 @@ Tudo no código de Hamming se baseia na **Distância de Hamming **$d_{min}$, que
 - O exemplo mais clássico de série heterógrada é a **Distribuição de Frequências**, onde os dados são agrupados em classes ou intervalos de intensidade
 	- *Exemplo:* O número de funcionários de uma empresa (fenômeno) agrupados por faixas salariais (variação em intensidade: de R$ 1.500 a R$ 3.000, de R$ 3.001 a R$ 4.500, etc.).
 
-![[Poscomp/images/image 2.png]]
+![[SubPages/Poscomp/images/image 2.png]]
 
 # Algoritmos
 
@@ -600,13 +600,13 @@ Otimização do insertion**
 	- Esquerda → Direita → Raiz
 - Árvore binária cheia
 	- Todos os elementos têm 2 filhos, com exceção das folhas
-![[Poscomp/images/Untitled.png]]
+![[SubPages/Poscomp/images/Untitled.png]]
 - Árvore binária completa
 	- Com exceção do último nível, todos os elementos tem 0 ou 2 filhos
-![[Poscomp/images/Untitled 1.png]]
+![[SubPages/Poscomp/images/Untitled 1.png]]
 - Estritamente binária
 	- Todos os elementos têm 0 ou 2 filhos
-![[Poscomp/images/Untitled 2.png]]
+![[SubPages/Poscomp/images/Untitled 2.png]]
 
 ### Quantidade de nós
 
@@ -624,32 +624,32 @@ Otimização do insertion**
 		- Quando a sub-árvore mais à direita causar o desbalanceamento
 		- O **filho à esquerda** da subárvore direita será **filho a direita do pai (da própria subárvore)**
 		- **O pai vira filho à esquerda da subárvore**
-![[Poscomp/images/Untitled 3.png]]
-![[ADS Puc/images/Untitled 4.png]]
+![[SubPages/Poscomp/images/Untitled 3.png]]
+![[SubPages/ADS - PUC-PR/images/Untitled 4.png]]
 	- Direita Simples
 		- Quando a subárvore mais à esquerda causar o desbalanceamento
 		- O filho a direita da subárvore esquerda será o filho a esquerda do pai
 		- O pai será filho a direita da subárvore esquerda
-![[ADS Puc/images/Untitled 5.png]]
-![[ADS Puc/images/Untitled 6.png]]
+![[SubPages/ADS - PUC-PR/images/Untitled 5.png]]
+![[SubPages/ADS - PUC-PR/images/Untitled 6.png]]
 	- Esquerda Dupla
 		- Quando a subárvore esquerda da direita causar o desbalanceamento
 		- Simples **direita** na **subárvore direita** + simples **esquerda** na árvore **original**
 			- Obs: Mesmo que o filho seja null
-![[ADS Puc/images/Untitled 7.png|Desbalanceada]]
-![[ADS Puc/images/Untitled 8.png|Passo 1: Desmembra a subárvore direita]]
-![[ADS Puc/images/Untitled 9.png|Passo 2: Rotação à direita]]
-![[ADS Puc/images/Untitled 10.png|Passo 3: Junta na árvore original]]
-![[ADS Puc/images/Untitled 11.png|Passo 4: Rotação à esquerda]]
+![[SubPages/ADS - PUC-PR/images/Untitled 7.png|Desbalanceada]]
+![[SubPages/ADS - PUC-PR/images/Untitled 8.png|Passo 1: Desmembra a subárvore direita]]
+![[SubPages/ADS - PUC-PR/images/Untitled 9.png|Passo 2: Rotação à direita]]
+![[SubPages/ADS - PUC-PR/images/Untitled 10.png|Passo 3: Junta na árvore original]]
+![[SubPages/ADS - PUC-PR/images/Untitled 11.png|Passo 4: Rotação à esquerda]]
 	- Direita Dupla
 		- Quando a subárvore direita da subárvore esquerda causa o desbalanceamento
 		- Esquerda simples na subárvore esquerda + direita simples na árvore original
-![[ADS Puc/images/Untitled 12.png|Desbalanceada]]
-![[ADS Puc/images/Untitled 13.png|Passo 1: Desmembra a esquerda]]
+![[SubPages/ADS - PUC-PR/images/Untitled 12.png|Desbalanceada]]
+![[SubPages/ADS - PUC-PR/images/Untitled 13.png|Passo 1: Desmembra a esquerda]]
         Passo 2: Rotação à esquerda
         Passo 3: Junta na árvore original
         Passo 4: Rotação à direita
-![[ADS Puc/images/Untitled 14.png]]
+![[SubPages/ADS - PUC-PR/images/Untitled 14.png]]
 ![[SubPages/Concursos/images/nse-6779031373762075482-1000064235.jpg]]
 ![[SubPages/Concursos/images/nse-3696523304561482442-1000064242.jpg]]
     ## Remoção
@@ -659,14 +659,14 @@ PASSO 2: IDENTIFIQUE O MENOR ELEMENTO DE TODA SUBÁRVORE À DIREITA DO NÓ IDENT
 PASSO 1 (EM VERDE)
 PASSO 3: COPIE O VALOR DO NÓ IDENTIFICADO NO PASSO 2 PARA O NÓ IDENTIFICADO NO PASSO 1
 PASSO 4: REMOVA O ELEMENTO IDENTIFICADO NO PASSO 2.
-![[ADS Puc/images/Untitled 15.png]]
+![[SubPages/ADS - PUC-PR/images/Untitled 15.png]]
     ESTRATÉGIA 2
 PASSO 1: IDENTIFIQUE O ELEMENTO QUE VOCÊ DESEJA RETIRAR DA ÁRVORE (EM VERMELHO)
 PASSO 2: IDENTIFIQUE O MAIOR ELEMENTO DE TODA SUBÁRVORE À ESQUERDA DO NÓ IDENTIFICADO NO
 PASSO 1 (EM VERDE)
     PASSO 3: COPIE O VALOR DO NÓ IDENTIFICADO NO PASSO 2 PARA O NÓ IDENTIFICADO NO PASSO 1
 PASSO 4: REMOVA O ELEMENTO IDENTIFICADO NO PASSO 2.
-![[ADS Puc/images/Untitled 16.png]]
+![[SubPages/ADS - PUC-PR/images/Untitled 16.png]]
 
 ## Outros Tipos de Árvores
 
@@ -682,7 +682,7 @@ PASSO 4: REMOVA O ELEMENTO IDENTIFICADO NO PASSO 2.
 	- Cada página pode ter um número diferente de chaves, maior que 1
 	- Cada **chave** referencia duas **páginas** filhas, onde a página da esquerda contém chaves menores e a da direita chaves maiores
 	- Logo, uma **página** com k **chaves** terá k+1 **páginas** **filhas**
-![[ADS Puc/images/Untitled 17.png]]
+![[SubPages/ADS - PUC-PR/images/Untitled 17.png]]
 	- Complexidades (Pior caso)
 		- Inserção O(log n)
 		- Busca O(log n)
@@ -700,7 +700,7 @@ PASSO 4: REMOVA O ELEMENTO IDENTIFICADO NO PASSO 2.
 	- Isto permite que o acesso em sequência ocorra naturalmente, uma vez que, ao procurar pela chave k+1, pode-se ir para a próxima chave na mesma página ou pular para a página ao lado
 	- Na árvore B, seria necessário reiniciar a busca a partir da raiz
 
-![[ADS Puc/images/Untitled 18.png]]
+![[SubPages/ADS - PUC-PR/images/Untitled 18.png]]
 
 ### AVL
 
@@ -783,7 +783,7 @@ PASSO 4: REMOVA O ELEMENTO IDENTIFICADO NO PASSO 2.
 - Se o grafo for direcional (cada arco tem um sentido definido) a matriz não será simétrica
 - Valores representados na diagonal da matriz significam um laço (um arco que liga ao próprio nó)
 
-![[Poscomp/images/image 3.png]]
+![[SubPages/Poscomp/images/image 3.png]]
 
 - Ocupa espaços de memória desnecessários, porém é mais fácil de entender e mais rápida de ser consultada
 
@@ -794,10 +794,10 @@ PASSO 4: REMOVA O ELEMENTO IDENTIFICADO NO PASSO 2.
 - Pode também representar os pesos
 
 <!-- Column 1 -->
-![[Poscomp/images/image 4.png]]
+![[SubPages/Poscomp/images/image 4.png]]
 
 <!-- Column 2 -->
-![[Poscomp/images/image 5.png]]
+![[SubPages/Poscomp/images/image 5.png]]
 
 ## Travessia
 
@@ -811,7 +811,7 @@ PASSO 4: REMOVA O ELEMENTO IDENTIFICADO NO PASSO 2.
 
 ## Shortest Path
 
-![[Poscomp/images/image 6.png]]
+![[SubPages/Poscomp/images/image 6.png]]
 
 - Os dois principais algoritmos são:
 	- Dijkstra’s
@@ -861,15 +861,15 @@ Nesse exemplo, cada coluna (Masculino, Feminino, Outro) tem um **bitmap**, e um 
 
 ## Resumo:
 
-![[Poscomp/images/image 7.png]]
+![[SubPages/Poscomp/images/image 7.png]]
 
-![[Poscomp/images/image 8.png]]
+![[SubPages/Poscomp/images/image 8.png]]
 
-![[Poscomp/images/image 9.png]]
+![[SubPages/Poscomp/images/image 9.png]]
 
-![[Poscomp/images/image 10.png]]
+![[SubPages/Poscomp/images/image 10.png]]
 
-![[Poscomp/images/image 11.png]]
+![[SubPages/Poscomp/images/image 11.png]]
 
 ![[SubPages/Concursos/images/image 12.png]]
 
