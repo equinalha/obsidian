@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "86d2f8368ec2ea81",
+        "id": "a8f7782e7cbbec03",
         "type": "tabs",
         "children": [
           {
-            "id": "008d6e351b198cb6",
+            "id": "deb1adda2d0000eb",
             "type": "leaf",
             "state": {
-              "type": "meld-encrypted-view",
-              "state": {
-                "file": "TRE-PR/TRE-PR.mdenc",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "TRE-PR"
+              "title": "Nova aba"
             }
           }
         ]
@@ -192,6 +188,9 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "008d6e351b198cb6",
-  "lastOpenFiles": []
+  "active": "deb1adda2d0000eb",
+  "lastOpenFiles": [
+    "MPPR/MPPR.mdenc",
+    "TRE-PR/TRE-PR.mdenc"
+  ]
 }
