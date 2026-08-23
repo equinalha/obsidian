@@ -11,16 +11,16 @@ Description: ""
 - Documentar e especificar um sistema
 - UML 2.5
 
-![[Concursos/images/Untitled 24.png]]
+![[SubPages/Concursos/images/Untitled 24.png]]
 
 ## Caso de Uso
 
 ![[Projetos de Sistemas de Informação (UML) synced block]]
 
-![[Concursos/images/Untitled 29.png]]
+![[SubPages/Concursos/images/Untitled 29.png]]
 
-![[Concursos/images/Untitled 30.png]]
+![[SubPages/Concursos/images/Untitled 30.png]]
 
-![[Concursos/images/Untitled 31.png]]
+![[SubPages/Concursos/images/Untitled 31.png]]
 
-![[Concursos/images/Untitled 32.png]]
+![[SubPages/Concursos/images/Untitled 32.png]]

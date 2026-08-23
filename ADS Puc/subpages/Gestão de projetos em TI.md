@@ -182,11 +182,11 @@ Liderar é a capacidade de atuar na mudança de uma situação.
 > 
 > ## Etapas
 > 
-> ![[Concursos/images/Untitled 82.png]]
+> ![[SubPages/Concursos/images/Untitled 82.png]]
 > 
 > ## EAP
 > 
-> ![[Concursos/images/Untitled 83.png]]
+> ![[SubPages/Concursos/images/Untitled 83.png]]
 > 
 > - Associada a um dicionário
 >     - Documento que fornece informações detalhadas sobre as entregas, atividades e agendamento de cada componente da EAP
@@ -212,11 +212,11 @@ Liderar é a capacidade de atuar na mudança de uma situação.
 > Tipos:
 > 
 > - Por Fases
-> ![[Concursos/images/Untitled 84.png]]
+> ![[SubPages/Concursos/images/Untitled 84.png]]
 > - Por Entregas
-> ![[Concursos/images/Untitled 85.png]]
+> ![[SubPages/Concursos/images/Untitled 85.png]]
 > - Por Equipes
-> ![[Concursos/images/Untitled 86.png]]
+> ![[SubPages/Concursos/images/Untitled 86.png]]
 > 
 > ## Escopo
 > 
@@ -225,7 +225,7 @@ Liderar é a capacidade de atuar na mudança de uma situação.
 >     - P**lanejamento**
 >     - M**onitoramento e controle**
 > 
-> ![[Concursos/images/Untitled 87.png]]
+> ![[SubPages/Concursos/images/Untitled 87.png]]
 > 
 > - Escopo do produto
 >     - Características e funções do produto ou serviço
@@ -251,7 +251,7 @@ Liderar é a capacidade de atuar na mudança de uma situação.
 >         - Cronograma
 >         - Custo
 > 
-> ![[Concursos/images/Untitled 88.png|Processo de definição de escopo]]
+> ![[SubPages/Concursos/images/Untitled 88.png|Processo de definição de escopo]]
 > 
 > ### Técnicas para definicão de escopo
 > 
@@ -311,19 +311,19 @@ Liderar é a capacidade de atuar na mudança de uma situação.
 > 
 > ## Diagrama de Precedências
 > 
-> ![[Concursos/images/Untitled 89.png]]
+> ![[SubPages/Concursos/images/Untitled 89.png]]
 > 
 > ## Gráfico de Alocação de Recursos
 > 
-> ![[Concursos/images/Untitled 90.png]]
+> ![[SubPages/Concursos/images/Untitled 90.png]]
 > 
 > ## Gráfico de Gantt
 > 
-> ![[Concursos/images/Untitled 91.png]]
+> ![[SubPages/Concursos/images/Untitled 91.png]]
 > 
 > ## Diagrama de Rede
 > 
-> ![[Concursos/images/Untitled 92.png]]
+> ![[SubPages/Concursos/images/Untitled 92.png]]
 > 
 > ## Técnicas de estimativa de tempo de tarefas
 > 
@@ -346,7 +346,7 @@ Liderar é a capacidade de atuar na mudança de uma situação.
 >         - (sigma) = (tP - tO) / 6
 >     - Variância
 >         - S = (sigma) ^ 2
-> ![[Concursos/images/Untitled 93.png]]
+> ![[SubPages/Concursos/images/Untitled 93.png]]
 > - 5- Estimativa bottom-up
 >     - Aplica-se quando da existência de tarefas complexas
 >     - Parte dos níveis mais inferiores até chegar ao nível mais alto da EAP
@@ -367,7 +367,7 @@ Liderar é a capacidade de atuar na mudança de uma situação.
 # Rede do Projeto
 
 - Desenvolvida a partir da EAP
-![[Concursos/images/Untitled 94.png]]
+![[SubPages/Concursos/images/Untitled 94.png]]
 - Cálculo da rede:
 	- Caminho de Ida
 		- A partir da primeira atividade (ou todas as que não tem predecessoras), parte-se de ES = 0 (Early Start) e soma-se a duração (DUR)
@@ -396,9 +396,9 @@ Liderar é a capacidade de atuar na mudança de uma situação.
 10. Interpretar as respostas aos riscos
 11. Melhorar e controlar os riscos
 
-![[Concursos/images/Untitled 95.png|EAP de riscos (Também conhecida como EAR - Estrutura Analítica de Riscos) em projetos de TI]]
+![[SubPages/Concursos/images/Untitled 95.png|EAP de riscos (Também conhecida como EAR - Estrutura Analítica de Riscos) em projetos de TI]]
 
-![[Concursos/images/Untitled 96.png]]
+![[SubPages/Concursos/images/Untitled 96.png]]
 
 > [!tip] 💡
 > o custo para tratar uma ameaça concretizada a partir de um risco é menor nos estágios iniciais do ciclo de vida de um projeto.
@@ -417,7 +417,7 @@ Liderar é a capacidade de atuar na mudança de uma situação.
 	- Gráfico de bolhas
 		- 3 parâmetros
 		- X, Y e tamanho da bolha (valor do impacto)
-![[Concursos/images/Untitled 97.png]]
+![[SubPages/Concursos/images/Untitled 97.png]]
 	- **Gráficos Hierárquicos**
 		- 3 ou mais parâmetros
 
@@ -435,7 +435,7 @@ Liderar é a capacidade de atuar na mudança de uma situação.
 	- Análise de sensibilidade
 		- Diagrama de tornado
 			- Usa elementos da análise qualitativa associado a um coeficiente de correlação
-![[Concursos/images/Untitled 98.png]]
+![[SubPages/Concursos/images/Untitled 98.png]]
 		- Árvores de decisão
 		- Diagramas de influência
 		- 
@@ -454,7 +454,7 @@ Liderar é a capacidade de atuar na mudança de uma situação.
 
 ## Respostas aos riscos
 
-![[Concursos/images/Untitled 99.png]]
+![[SubPages/Concursos/images/Untitled 99.png]]
 
 - **Estratégias voltadas às ameaças**
 	- Escalação: Especificar a ameaça como fora do escopo do projeto

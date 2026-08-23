@@ -41,7 +41,7 @@ Description: ""
 - Extend:
 	- Assim como a herança, este caso de uso pode ser chamado se determinada condição foi atendida
 	- Represetado por uma linha tracejada e uma seta que aponta para o caso de uso base
-![[Concursos/images/Untitled 60.png]]
+![[SubPages/Concursos/images/Untitled 60.png]]
     ## Especificação de caso de uso.
 
 
