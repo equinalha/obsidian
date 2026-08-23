@@ -24,7 +24,7 @@ Owner:
 
 ## Objetivos
 
-![[Untitled 131.png]]
+![[SubPages/Pessoal/images/Untitled 131.png]]
 
 - Sobrepreço
 	- Preço manifestadamente acima do praticado

@@ -1,0 +1,28 @@
+# Manutenções
+
+filters:
+  and:
+    - note["base"] == link("Manutenções.base")
+properties:
+  file.name:
+    displayName: Name
+  Data:
+    displayName: Data
+  Valor:
+    displayName: Valor
+  Tags:
+    displayName: Tags
+  Mecânico:
+    displayName: Mecânico
+  Km:
+    displayName: Km
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Data
+      - Valor
+      - Tags
+      - Mecânico
+      - Km

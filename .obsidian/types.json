@@ -32,6 +32,22 @@
     "Obs": "text",
     "1o Colocado": "number",
     "Tipo": "text",
-    "Obj": "text"
+    "Obj": "text",
+    "Valor": "number",
+    "Mecânico": "text",
+    "Km": "number",
+    "Descrição": "text",
+    "Decisão": "text",
+    "Alternativa": "text",
+    "tag": "text",
+    "Rating": "text",
+    "Category": "text",
+    "Summary": "text",
+    "Current page": "number",
+    "Total pages": "number",
+    "Date started": "date",
+    "Date finished": "date",
+    "Assignee": "multitext",
+    "Due": "date"
   }
 }

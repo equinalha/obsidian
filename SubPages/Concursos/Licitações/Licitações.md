@@ -19,7 +19,7 @@ Owner:
 
 # Âmbito de Aplicação
 
-![[Untitled 117.png]]
+![[SubPages/Pessoal/images/Untitled 117.png]]
 
 - Aplicação subsidiária (complementar) em contratos de:
 	- concessão e permissão de serviços públicos (Lei 8.987/1995);
@@ -30,25 +30,25 @@ Owner:
 
 > *Art. 5º Na aplicação desta Lei, serão observados os princípios da ****legalidade****, da ****impessoalidade****, da ****moralidade****, da ****publicidade****, da ****eficiência****, do ****interesse público****, da ****probidade**** ****administrativa****, da ****igualdade****, do ****planejamento****, da ****transparência****, da ****eficácia****, da ****segregação**** ****de**** ****funções****, da ****motivação****, da ****vinculação**** ****ao edital****, do ****julgamento**** ****objetivo****, da ****segurança**** ****jurídica****, da ****razoabilidade****, da ****competitividade****, da ****proporcionalidade****, da ****celeridade****, da ****economicidade**** e do**** desenvolvimento nacional sustentável****, assim como as disposições do Decreto-Lei nº 4.657, de 4 de setembro de 1942 (Lei de Introdução às Normas do Direito Brasileiro).*
 
-![[Untitled 118.png]]
+![[SubPages/Pessoal/images/Untitled 118.png]]
 
 # Igualdade e Competitividade
 
-![[Untitled 119.png]]
+![[SubPages/Pessoal/images/Untitled 119.png]]
 
 # Modalidades
 
-![[Untitled 120.png]]
+![[SubPages/Pessoal/images/Untitled 120.png]]
 
 # Contratação direta
 
-![[Untitled 121.png]]
+![[SubPages/Pessoal/images/Untitled 121.png]]
 
 # Inexigibilidade
 
-![[Untitled 122.png]]
+![[SubPages/Pessoal/images/Untitled 122.png]]
 
-![[Untitled 123.png]]
+![[SubPages/Pessoal/images/Untitled 123.png]]
 
 # Licitação Dispensável
 
@@ -144,7 +144,7 @@ Owner:
 - Programas de habitação ou regularização fundiária
 - Legitimação de posse
 
-![[Untitled 124.png]]
+![[SubPages/Pessoal/images/Untitled 124.png]]
 
 ## Bens móveis
 
@@ -155,7 +155,7 @@ Owner:
 - venda de bens produzidos ou comercializados por entidades da administração pública, em virtude de suas finalidades;
 - venda de materiais e equipamentos sem utilização previsível por quem deles dispõe para outros órgãos ou entidades da administração pública.
 
-![[Untitled 125.png]]
+![[SubPages/Pessoal/images/Untitled 125.png]]
 
 # Fases da Licitação
 
@@ -163,15 +163,15 @@ Owner:
 - Assim, poupa-se tempo, pois somente os vencedores terão de se habilitar
 - No entanto a fase habilitação poderá ser trazida para antes da apresentação das propostas, **mediante ato motivado**
 
-![[Untitled 126.png]]
+![[SubPages/Pessoal/images/Untitled 126.png]]
 
 - Forma:
 
-![[Untitled 127.png]]
+![[SubPages/Pessoal/images/Untitled 127.png]]
 
 ## Divulgação do edital
 
-![[Untitled 128.png]]
+![[SubPages/Pessoal/images/Untitled 128.png]]
 
 ## Prazos para apresentação de propostas e lances
 
@@ -186,14 +186,14 @@ Owner:
 - 15 dias úteis → maior lance
 - 35 dias úteis → Técnica e preço / melhor técnica ou conteúdo artístico
 
-![[Untitled 129.png]]
+![[SubPages/Pessoal/images/Untitled 129.png]]
 
 # Modos de Disputa
 
 - Aberto
 - Fechado
 
-![[Untitled 130.png]]
+![[SubPages/Pessoal/images/Untitled 130.png]]
 
 # Prazos
 

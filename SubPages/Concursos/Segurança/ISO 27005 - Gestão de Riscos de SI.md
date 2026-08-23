@@ -22,7 +22,7 @@ Owner:
 	- Efeito da incerteza nos objetivos. 
 	- Trata-se de um desvio em relação ao esperado, tanto positivo quanto negativo.
 	- Associado à probabilidade de ocorrência e impactos ou consequências
-![[image 71.png]]
+![[SubPages/Pessoal/images/image 71.png]]
 
 ## 1. Estabelecimento de Contexto
 
@@ -476,4 +476,4 @@ Para realizar a Análise de Monte Carlo:
 	- **Percentis (e.g., P90)**: Valor máximo que o custo total provavelmente não ultrapassará em 90% das simulações.
 	- **Probabilidade de Exceder o Orçamento**: Se houver um orçamento definido, a porcentagem de simulações que excedem esse valor.
 
-![[image 72.png]]
+![[SubPages/Pessoal/images/image 72.png]]

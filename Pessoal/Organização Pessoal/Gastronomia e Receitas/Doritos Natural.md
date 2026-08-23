@@ -1,0 +1,11 @@
+---
+
+---
+- Tapioca
+- Queijo Parmesão Ralado
+- Páprica (Doce / Picante / Defumada)
+- Sal
+- Dissolver na água quente
+- Misturar até virar uma massa consistente
+- Espalhar uma fina camada em uma superfície
+- Assar

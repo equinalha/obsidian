@@ -1,0 +1,12 @@
+---
+
+---
+- 1 dose de pisco
+- 1 dose de xarope de açúcar
+	- 50% água
+	- 50% açúcar
+	- Ferver num recipiente, mexendo o tempo todo
+	- Esfriar na geladeira
+- 1 dose de suco de limão
+- 1 clara de ovo
+- Gelo

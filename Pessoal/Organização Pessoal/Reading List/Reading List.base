@@ -1,0 +1,53 @@
+# Reading List
+
+filters:
+  and:
+    - note["base"] == link("Reading List.base")
+formulas:
+  Progress: |-
+    if(note["Total pages"] == 0, "Invalid Total Pages",
+        if(note["Current page"] == 0, 0,
+            if(note["Current page"] >= note["Total pages"], 1,
+                ((note["Current page"] / note["Total pages"]) * 100).round() / 100
+            )
+        )
+    )
+properties:
+  file.name:
+    displayName: Title
+  Rating:
+    displayName: Rating
+  Category:
+    displayName: Category
+  Summary:
+    displayName: Summary
+  Current page:
+    displayName: Current page
+  Link:
+    displayName: Link
+  Total pages:
+    displayName: Total pages
+  Date started:
+    displayName: Date started
+  Date finished:
+    displayName: Date finished
+  Author:
+    displayName: Author
+  Status:
+    displayName: Status
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Rating
+      - Category
+      - Summary
+      - Current page
+      - Link
+      - Total pages
+      - Date started
+      - Date finished
+      - Author
+      - Status
+      - formula.Progress

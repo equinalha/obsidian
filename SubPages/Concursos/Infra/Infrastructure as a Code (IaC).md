@@ -85,7 +85,7 @@ mesmo estado.
 - São customizáveis
 - São eles que efetivamente entendem a configuração desejada e executam os comandos no host
 
-![[image 61.png|Ansible Playbook]]
+![[SubPages/Pessoal/images/image 61.png|Ansible Playbook]]
 
 - **Tipos de módulos**
 	- **Módulos de ação**, que realizam ações específicas nos nós, como instalação de pacotes;
@@ -179,7 +179,7 @@ all:
 	- Nós gerenciados
 - O controle de quais nós são monitorados é feito através de um artefato denominado Inventário (Inventory).
 
-![[image 62.png]]
+![[SubPages/Pessoal/images/image 62.png]]
 
 ## Comandos
 
@@ -373,4 +373,4 @@ output "instance_ip" {
 
 ## Principais comandos
 
-![[image 63.png]]
+![[SubPages/Pessoal/images/image 63.png]]

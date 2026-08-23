@@ -14,7 +14,7 @@ Owner:
 
 # Objetivos da LGPD
 
-![[image 75.png]]
+![[SubPages/Pessoal/images/image 75.png]]
 
 # Aplicação
 
@@ -25,7 +25,7 @@ Owner:
 - Caso o tratamento tenha por objetivo oferecer bens ou serviços de indivíduos situados em território nacional
 - Não importa o meio ou país em que estejam armazenados ou localizados
 
-![[image 76.png]]
+![[SubPages/Pessoal/images/image 76.png]]
 
 ## Não se aplica
 
@@ -38,7 +38,7 @@ Owner:
 - Dados de fora, não compartilhados com agentes brasileiros
 - Objeto de transferência internacional
 
-![[image 77.png]]
+![[SubPages/Pessoal/images/image 77.png]]
 
 - Nos casos de tratamento para fins de segurança pública, defesa nacional ou segurança do estado:
 	- Vedado o tratamento por pessoa de direito privado, exceto se feito sob tutela de uma pessoa jurídica de direito público
@@ -47,7 +47,7 @@ Owner:
 
 # Fundamentos
 
-![[image 78.png]]
+![[SubPages/Pessoal/images/image 78.png]]
 
 # Princípios
 

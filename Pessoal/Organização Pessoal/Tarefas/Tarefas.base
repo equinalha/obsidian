@@ -1,0 +1,22 @@
+# Tarefas
+
+filters:
+  and:
+    - note["base"] == link("Tarefas.base")
+properties:
+  file.name:
+    displayName: Name
+  Assignee:
+    displayName: Assignee
+  Status:
+    displayName: Status
+  Due:
+    displayName: Due
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Assignee
+      - Status
+      - Due

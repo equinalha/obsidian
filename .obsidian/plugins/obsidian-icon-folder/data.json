@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#8f66ff",
     "recentlyUsedIcons": [
-      "LiLogOut",
-      "🚧",
-      "✍",
-      "⚖",
-      "🧑‍⚖️"
+      "LiHatGlasses",
+      "FasEye",
+      "🧰",
+      "🎧",
+      "💻"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -436,5 +436,22 @@
   "SubPages/MPPR/Prompt Engineering.mdenc": "🤖",
   "Mestrado.md": "🎓",
   "ADS - PUC-PR.base": "🎓",
-  "Tweets.base": "LiBird"
+  "Tweets.base": "LiBird",
+  "Organização Pessoal.md": "😎",
+  "Pessoal/Organização Pessoal/My Home/My Home.md": "🏠",
+  "Pessoal/Organização Pessoal/TR4/TR4.md": "🚙",
+  "Pessoal/Organização Pessoal/Aikido.md": "🥋",
+  "Pessoal/Organização Pessoal/Krav Maga.md": "🥋",
+  "Pessoal/Organização Pessoal/Alongamentos.md": "🏃‍♂️",
+  "Pessoal/Organização Pessoal/Linux/Linux.md": "🐧",
+  "Pessoal/Organização Pessoal/Linux/Linux Mint.md": "🍃",
+  "Pessoal/Organização Pessoal/Linux/Manjaro no Dell Inspiron.md": "SiManjaro",
+  "Pessoal/Organização Pessoal/Linux/LMDE no Dell Inspiron.md": "🍃",
+  "Pessoal/Organização Pessoal/Linux/linux shell fork bomb.md": "💣",
+  "Pessoal/Organização Pessoal/Linux/Gravador Guitarra no Linux.md": "🎸",
+  "Pessoal/Organização Pessoal/Linux/EnvyX360 - HW List.md": "💻",
+  "Pessoal/Organização Pessoal/Linux/Baseus Bowie H1.md": "🎧",
+  "Pessoal/Organização Pessoal/Linux/Linux productivity tools.md": "🧰",
+  "Pessoal/Organização Pessoal/Linux/Nmap Cheatsheet.md": "FasEye",
+  "Pessoal/Organização Pessoal/Linux/Jhon The Ripper.md": "LiHatGlasses"
 }

@@ -312,7 +312,7 @@ seguida, para operações.
 	- **Reserva de gerenciamento**
 		- Valor adicional, **separado do orçamento** total do projeto,
 		- Destinado a lidar com **riscos não identificados ou desconhecidos**.
-![[image 73.png]]
+![[SubPages/Pessoal/images/image 73.png]]
     ## Desempenho do Trabalho do Projeto
 	- Execução do projeto
 ![[Untitled 341.png]]

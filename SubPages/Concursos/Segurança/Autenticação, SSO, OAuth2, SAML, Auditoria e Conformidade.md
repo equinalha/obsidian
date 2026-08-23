@@ -218,11 +218,11 @@ Os Access tokens do OAuth 2.0 podem ser dos seguintes tipos:
 
 - [**Fluxo implícito**](https://auth0.com/docs/api-auth/tutorials/adoption/implicit): 
 	- Neste fluxo, comumente usado por SPAs, os tokens são devolvidos diretamente para a RP (Cliente) em um URI de redirecionamento.
-![[image 69.png]]
+![[SubPages/Pessoal/images/image 69.png]]
 - [**Fluxo de código de autorização**](https://auth0.com/docs/api-auth/tutorials/adoption/authorization-code): 
 	- Este fluxo é mais seguro do que o fluxo implícito, pois os tokens não são retornados diretamente. 
 	- Para aplicativos nativos/móveis e SPAs, a segurança pode ser aprimorada usando uma [**chave de prova para troca de código**](https://auth0.com/docs/api-auth/tutorials/authorization-code-grant-pkce). (PKCE)
-![[image 70.png]]
+![[SubPages/Pessoal/images/image 70.png]]
 - [**Fluxo híbrido**](https://auth0.com/docs/api-auth/tutorials/hybrid-flow): 
 	- Combinando os fluxos de código implícitos e de autorização, neste caso o token de ID é devolvido diretamente para a RP, mas o token de acesso não. 
 	- Em vez disso, é retornado um código de autorização que é trocado por um token de acesso.

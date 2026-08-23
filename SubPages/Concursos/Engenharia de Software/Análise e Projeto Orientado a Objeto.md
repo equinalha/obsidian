@@ -29,14 +29,14 @@ Owner:
 - Não leva em consideração as restrições inerentes à tecnologia a ser utilizada
 - É mais estável que o modelo de projeto
 
-![[image 64.png]]
+![[SubPages/Pessoal/images/image 64.png]]
 
 ## Modelo de Classes de Especificação (ou projeto)
 
 - Estende o modelo de análise
 - Contém detalhes específicos inerentes à solução
 
-![[image 65.png]]
+![[SubPages/Pessoal/images/image 65.png]]
 
 ## Modelo de Classes de Implementação
 
@@ -47,7 +47,7 @@ Owner:
 
 - Categorização das classes de acordo com sua responsabilidade
 
-![[image 66.png]]
+![[SubPages/Pessoal/images/image 66.png]]
 
 - **Fronteira**
 	- Modela a interação entre um ator e o sistema

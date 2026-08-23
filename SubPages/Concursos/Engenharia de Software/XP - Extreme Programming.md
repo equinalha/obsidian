@@ -136,7 +136,7 @@ Owner:
 
 # Ciclo de vida
 
-![[image 74.png]]
+![[SubPages/Pessoal/images/image 74.png]]
 
 - As fases não são estritamente sequenciais e podem ocorrer simultaneamente ou se sobrepor
 - O teste por exemplo, ocorre simultaneamente ao desenvolvimento

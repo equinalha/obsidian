@@ -127,7 +127,7 @@ startActivity(intent);
 		- Invocado quando:
 			-  A atividade está sendo finalizada, porque o usuário descartou completamente o atividade ou devido a [`finish()`](https://developer.android.com/reference/android/app/Activity?hl=pt-br#finish()) sendo seja chamado na atividade.
 			- O sistema está destruindo temporariamente a atividade devido a uma configuração mudar, como girar o dispositivo ou entrar no modo de várias janelas
-![[image 57.png]]
+![[SubPages/Pessoal/images/image 57.png]]
 
 ## Views
 
@@ -136,12 +136,12 @@ startActivity(intent);
 	- **LinearLayout**
 		- Organiza as views em uma única coluna ou linha (vertical ou horizontal).
 		- Permite distribuir espaço disponível entre as views proporcionalmente.
-![[image 58.png]]
+![[SubPages/Pessoal/images/image 58.png]]
 	- **RelativeLayout**
 		- Permite posicionar as views em relação a outras views ou em relação ao contêiner pai.
 		- Por exemplo, você pode alinhar uma view à direita de outra view ou centralizar uma view dentro do layout.
 		- As views podem ser alinhadas usando atributos como `layout_alignParentTop`, `layout_centerInParent`, `layout_toRightOf`, etc.
-![[image 59.png]]
+![[SubPages/Pessoal/images/image 59.png]]
 	- **ConstraintLayout**
 		- permite posicionar e redimensionar views com base em restrições relativas entre elas e em relação ao contêiner pai.
 		- **ConstraintLayout** e o **RelativeLayout** possuem similaridades, como a capacidade de posicionar componentes em relação uns aos outros, mas o **ConstraintLayout** é mais avançado e versátil, oferecendo uma gama maior de opções de posicionamento e dimensionamento, além de melhorar o desempenho ao reduzir a profundidade da hierarquia de visualização (view hierarchy).
@@ -151,7 +151,7 @@ startActivity(intent);
 		- É recomendado para layouts complexos, pois pode substituir a necessidade de múltiplos layouts aninhados.
 		- As views são posicionadas usando restrições, como `start`, `end`, `top`, `bottom`, e bias (deslocamento).
 		- Permite agrupar views em uma cadeia para distribuir espaço horizontal ou vertical de forma uniforme.
-![[image 60.png]]
+![[SubPages/Pessoal/images/image 60.png]]
 
 # Android Enterprise
 

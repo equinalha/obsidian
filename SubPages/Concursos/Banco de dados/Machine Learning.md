@@ -183,33 +183,33 @@ Owner:
 - Somente é adequado para dados balanceados
 	- Por exemplo: considere um estudo em que apenas 5% da população apresenta uma determinada doença. Logo, temos um conjunto de dados desbalanceado. Se o modelo escolhido conseguir classificar corretamente todas as pessoas que não têm a doença e errar a classificação de todos os doentes, teremos uma acurácia de 95%, dando uma falsa impressão de que o modelo treinado tem uma ótima previsão. Porém, o modelo não consegue classificar corretamente a classe de interesse.
 
-![[Untitled 100.png]]
+![[SubPages/Pessoal/images/Untitled 100.png]]
 
 ## Valor Preditivo Negativo (VPN)
 
-![[Untitled 101.png]]
+![[SubPages/Pessoal/images/Untitled 101.png]]
 
 ## Precisão ou Valor Preditivo Positivo (VPP)
 
-![[Untitled 102.png]]
+![[SubPages/Pessoal/images/Untitled 102.png]]
 
 ## Recall (Sensibilidade)
 
 - Proporção de verdadeiros positivo dentre o total
 
-![[Untitled 103.png]]
+![[SubPages/Pessoal/images/Untitled 103.png]]
 
 ## Precision (Especificidade)
 
 - Proporção de verdadeiros negativos dentre todas as observações que realmente são negativas
 
-![[Untitled 104.png]]
+![[SubPages/Pessoal/images/Untitled 104.png]]
 
 ## F1 - Score
 
 - Avalia o equilíbrio entre precisão e sensibilidade
 
-![[Untitled 105.png]]
+![[SubPages/Pessoal/images/Untitled 105.png]]
 
 ## Curva ROC
 
@@ -223,7 +223,7 @@ Owner:
 	- Capacidade do modelo de prever a classe positiva corretamente
 	- Quanto maior este valor, melhor
 
-![[Untitled 106.png]]
+![[SubPages/Pessoal/images/Untitled 106.png]]
 
 - AUC
 	- Área abaixo da curva
@@ -232,7 +232,7 @@ Owner:
 
 # Hiperparâmetros vs parâmetros
 
-![[Untitled 107.png]]
+![[SubPages/Pessoal/images/Untitled 107.png]]
 
 - **Hiperparâmetros**
 	- Configurações que não são aprendidas pelo modelo durante o treinamento
@@ -278,7 +278,7 @@ Owner:
 - **Redes neurais recorrentes**
 	- Projetado para lidar com dados sequenciais como **séries temporais ou texto**
 	- Conexões que formam loops
-![[Untitled 108.png]]
+![[SubPages/Pessoal/images/Untitled 108.png]]
 
 # Underfitting, overfitting e técnicas de regularização
 
@@ -300,7 +300,7 @@ Owner:
 	- Engenharia de recursos: melhores dados de entrada para treinamento
 	- Redução de restrições do modelo
 
-![[Untitled 109.png]]
+![[SubPages/Pessoal/images/Untitled 109.png]]
 
 # Algoritmos de aprendizado
 
@@ -309,7 +309,7 @@ Owner:
 - Algoritmo de aprendizado supervisionado
 - Concentra-se em encontrar os k vizinhos mais próximos de um dado valor
 
-![[Untitled 110.png]]
+![[SubPages/Pessoal/images/Untitled 110.png]]
 
 - Na ilustração, S seria o conjunto de estrelas e triângulos já classificados. A interrogação representa um elemento do conjunto R que será classificado. Precisamos decidir se classificá-lo como um elemento da classe A (estrela) ou classe B (triângulo). Para isso, precisamos de um valor de K. Se K for igual a 1, o elemento mais próximo da interrogação determinará a classe à qual o novo elemento será classificado
 - Para determinar os vizinhos mais próximos, calcula-se a distância
@@ -362,15 +362,15 @@ Owner:
 - Em duas dimensões, a tarefa do algoritmo SVM é identificar uma linha que separa as duas classes.
 - Utilizados para classificação binária
 
-![[Untitled 111.png]]
+![[SubPages/Pessoal/images/Untitled 111.png]]
 
 - Quando existe mais de uma possibilidade de criação do hiperplano, o algoritmo irá buscar pelo hiperplano que crie a maior separação entre as classes: **Hiperplano de margem máxima (MMH)**
 
-![[Untitled 112.png]]
+![[SubPages/Pessoal/images/Untitled 112.png]]
 
 - Vetores de suporte são caracterizados pelos pontos de cada classe que encontram-se mais próximos do MMH
 
-![[Untitled 113.png]]
+![[SubPages/Pessoal/images/Untitled 113.png]]
 
 - O desempenho do algoritmo Support Vector Machines (SVM) pode ser influenciado pela escala dimensional dos conjuntos de dados. Portanto, a padronização e o pré-processamento dos dados são geralmente recomendados ao usar o SVM.
 - **Kernels**
@@ -388,7 +388,7 @@ Owner:
 
 - Perceptron: Rede neural de camada única
 
-![[Untitled 114.png]]
+![[SubPages/Pessoal/images/Untitled 114.png]]
 
 - Universalidade das redes neurais:
 	- Pode representar qualquer problema que possa ser descrito por uma função matemática
@@ -402,7 +402,7 @@ Owner:
 - Etapas do processo de treinamento:
 	- Cálculo da saída prevista y (Feedforward)
 	- Atualização dos pesos e vieses (Backpropagation)
-![[Untitled 115.png]]
+![[SubPages/Pessoal/images/Untitled 115.png]]
 
 ### Tipos de Redes Neurais
 
@@ -463,11 +463,11 @@ Owner:
 	- Se x for negativo ou zero, a função retorna 0.
 	- Embora pareça simples, a ReLU introduz uma **não linearidade **nas redes neurais, o que é essencial para que a rede aprenda e represente funções complexas
 - **Sigmoid**
-![[image 55.png]]
+![[SubPages/Pessoal/images/image 55.png]]
 	- Mapeia os valores de entrada para um intervalo entre 0 e 1
 	- usada principalmente em problemas de classificação binária, onde a saída precisa ser interpretada como uma probabilidade.
 - **Tanh**
-![[image 56.png]]
+![[SubPages/Pessoal/images/image 56.png]]
 	- Mapeia os valores de entrada para um intervalo entre -1 e 1
 	- É semelhante à função sigmoide, mas centrada em torno de zero, o que ajuda a tornar o aprendizado mais eficiente em alguns casos.
 - **Leaky ReLU**
@@ -644,7 +644,7 @@ Owner:
 - Repetem-se os dois passos anteriores até sobrar um único cluster
 - Esse método é especialmente útil quando se deseja identificar estruturas hierárquicas nos dados, subdividindo grupos em subgrupos menores
 
-![[Untitled 116.png]]
+![[SubPages/Pessoal/images/Untitled 116.png]]
 
 ### Mistura de Gaussianas
 

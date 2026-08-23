@@ -143,9 +143,9 @@ As bancas de prova **adoram** pedir para você negar uma frase com "Todos" ou "A
 - **Veracidade**
 	- Característica das proposições
 - **Representação**
-![[image 67.png]]
+![[SubPages/Pessoal/images/image 67.png]]
 	- Também pode ser representado na forma de uma condicional:
-![[image 68.png]]
+![[SubPages/Pessoal/images/image 68.png]]
 - **Regras de Inferência**
 	- Apresentam argumentos válidos
 	- **Modus Ponens (afirmação do antecedente)**

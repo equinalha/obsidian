@@ -84,6 +84,6 @@ Owner:
 
 ## Exemplo de controles
 
-![[image 53.png]]
+![[SubPages/Pessoal/images/image 53.png]]
 
-![[image 54.png]]
+![[SubPages/Pessoal/images/image 54.png]]

@@ -1,0 +1,10 @@
+---
+
+---
+[https://www.linkedin.com/posts/mh-benevides_migrar-para-o-windows-11-em-um-pc-n%C3%A3o-compat%C3%ADvel-activity-7336712213228937216-CFBQ?utm_source=share&utm_medium=member_android&rcm=ACoAAAs9j7kBhnknjJySQ0Kpr_P-_LaHB6e2wcs](https://www.linkedin.com/posts/mh-benevides_migrar-para-o-windows-11-em-um-pc-n%C3%A3o-compat%C3%ADvel-activity-7336712213228937216-CFBQ?utm_source=share&utm_medium=member_android&rcm=ACoAAAs9j7kBhnknjJySQ0Kpr_P-_LaHB6e2wcs)
+
+Migrar para o Windows 11 em um PC não compatível (sem ferramentas externas ou modificação de ISO) Aqui está um método simples e seguro para atualizar do Windows 10 para o Windows 11, mesmo em um PC não compatível (sem TPM, processador antigo, etc.). 🧰 Passos: 1️⃣ Baixe a ISO oficial do Windows 11 no site da Microsoft: 👉 [https://lnkd.in/dBZYrQ93](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd.in%2FdBZYrQ93&urlhash=8Isj&trk=public_post-text) 2️⃣ Extraia o conteúdo da ISO para uma pasta temporária. 3️⃣ Crie um arquivo de texto contendo esta linha: [setup.exe](http://setup.exe/?trk=public_post-text) /product server 4️⃣ Salve o arquivo com o nome [setup.bat](http://setup.bat/?trk=public_post-text). 5️⃣ Execute o [setup.bat](http://setup.bat/?trk=public_post-text) (clique com o botão direito > Executar como administrador). 💡 Durante a instalação, pode aparecer a mensagem "Windows Server" — não se preocupe! Isso é normal: esse comando apenas contorna as restrições de hardware, sem modificar a ISO original. Você ainda estará instalando o Windows 11 padrão. ✅ Importante: Antes da migração, certifique-se de que todas as atualizações do Windows 10 estejam instaladas para evitar erros durante o processo. 🔥 Agora você pode rodar o Windows 11, mesmo em um PC que não atende oficialmente aos requisitos! Se precisar de mais detalhes, me avise! 🚀💻
+
+![](https://media.licdn.com/dms/image/v2/D4D22AQG8SqSTznuipw/feedshare-shrink_2048_1536/B4DZdB95atGUAo-/0/1749158435424?e=2147483647&v=beta&t=kt6DI79gQdD0KVW0Mco1PLsh9BuroCXo6qqQiIeOc4Q)
+
+graphical user interface, application
