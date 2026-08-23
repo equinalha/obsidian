@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Organização Pessoal/3D Printing/3D Printing.md",
+                "file": "Organização Pessoal.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3D Printing"
+              "title": "Organização Pessoal"
             }
           }
         ]
@@ -207,10 +207,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4df05c449027129e",
+  "active": "0f72d7159ebc2bf8",
   "lastOpenFiles": [
+    "SubPages/Organização Pessoal/3D Printing/3D Printing.md",
     "Organização Pessoal.md",
-    "Pessoal/Organização Pessoal/3D Printing/3D Printing.md",
     "MPPR.mdenc",
     "Mestrado.md",
     "Concursos.md",
@@ -219,24 +219,24 @@
     "SubPages/ADS - PUC-PR/DevOps.md",
     "SubPages/ADS - PUC-PR/CSS.md",
     "SubPages/ADS - PUC-PR/Cloud.md",
-    "Pessoal/Organização Pessoal/Automation - IoT - DIY/Automation - IoT - DIY.md",
-    "Pessoal/Organização Pessoal/Linux/Linux.md",
-    "Pessoal/Organização Pessoal/Linux/Jhon The Ripper.md",
-    "Pessoal/Organização Pessoal/Linux/Nmap Cheatsheet.md",
-    "Pessoal/Organização Pessoal/Linux/Linux productivity tools.md",
-    "Pessoal/Organização Pessoal/Linux/Baseus Bowie H1.md",
-    "Pessoal/Organização Pessoal/Linux/EnvyX360 - HW List.md",
-    "Pessoal/Organização Pessoal/Linux/Gravador Guitarra no Linux.md",
-    "Pessoal/Organização Pessoal/Linux/linux shell fork bomb.md",
-    "Pessoal/Organização Pessoal/Linux/LMDE no Dell Inspiron.md",
-    "Pessoal/Organização Pessoal/Linux/Manjaro no Dell Inspiron.md",
-    "Pessoal/Organização Pessoal/Linux/Linux Mint.md",
-    "Pessoal/Organização Pessoal/Alongamentos.md",
-    "Pessoal/Organização Pessoal/Krav Maga.md",
-    "Pessoal/Organização Pessoal/Aikido.md",
-    "Pessoal/Organização Pessoal/TR4/TR4.md",
-    "Pessoal/Organização Pessoal/TR4/Reforma Carro.md",
-    "Pessoal/Organização Pessoal/My Home/My Home.md",
+    "SubPages/Organização Pessoal/Automation - IoT - DIY/Automation - IoT - DIY.md",
+    "SubPages/Organização Pessoal/Linux/Linux.md",
+    "SubPages/Organização Pessoal/Linux/Jhon The Ripper.md",
+    "SubPages/Organização Pessoal/Linux/Nmap Cheatsheet.md",
+    "SubPages/Organização Pessoal/Linux/Linux productivity tools.md",
+    "SubPages/Organização Pessoal/Linux/Baseus Bowie H1.md",
+    "SubPages/Organização Pessoal/Linux/EnvyX360 - HW List.md",
+    "SubPages/Organização Pessoal/Linux/Gravador Guitarra no Linux.md",
+    "SubPages/Organização Pessoal/Linux/linux shell fork bomb.md",
+    "SubPages/Organização Pessoal/Linux/LMDE no Dell Inspiron.md",
+    "SubPages/Organização Pessoal/Linux/Manjaro no Dell Inspiron.md",
+    "SubPages/Organização Pessoal/Linux/Linux Mint.md",
+    "SubPages/Organização Pessoal/Alongamentos.md",
+    "SubPages/Organização Pessoal/Krav Maga.md",
+    "SubPages/Organização Pessoal/Aikido.md",
+    "SubPages/Organização Pessoal/TR4/TR4.md",
+    "SubPages/Organização Pessoal/TR4/Reforma Carro.md",
+    "SubPages/Organização Pessoal/My Home/My Home.md",
     "TRE-PR.mdenc",
     "SubPages/Pessoal/images/ultimate-quad-training-guide.png",
     "SubPages/Pessoal/images/Product-Counter-ESP32-CAM-1080x606.jpg",
@@ -247,14 +247,14 @@
     "SubPages/Pessoal/images/0ddb7797-bd80-4c8d-81be-3f4d0cae257b.jpeg",
     "SubPages/Pessoal/images",
     "SubPages/Pessoal",
-    "Pessoal/Organização Pessoal/Tarefas/Tarefas.base",
-    "Pessoal/Organização Pessoal/Tarefas",
+    "SubPages/Organização Pessoal/Tarefas/Tarefas.base",
+    "SubPages/Organização Pessoal/Tarefas",
     "SubPages/Pessoal/images/Brave New World.jpeg",
     "SubPages/Pessoal/images/Linked.jpeg",
     "SubPages/Pessoal/images/Trabalhar para quê.jpeg",
-    "Pessoal/Organização Pessoal/Reading List/Reading List.base",
-    "Pessoal/Organização Pessoal/Reading List",
-    "Pessoal/Organização Pessoal/Health",
+    "SubPages/Organização Pessoal/Reading List/Reading List.base",
+    "SubPages/Organização Pessoal/Reading List",
+    "SubPages/Organização Pessoal/Health",
     "Sem título.canvas"
   ]
 }

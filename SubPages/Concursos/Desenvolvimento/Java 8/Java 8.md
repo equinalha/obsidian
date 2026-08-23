@@ -6,6 +6,6 @@ Last edited time: 2024-08-26T17:59:00
 Owner:
   - Eduardo Quinalha
 ---
-[[Java 8]]
+[[SubPages/Concursos/Desenvolvimento/Java 8/Java 8]]
 
 # Funções Lambda
