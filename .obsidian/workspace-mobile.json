@@ -158,19 +158,9 @@
           "icon": "lucide-list",
           "title": "Sumário"
         }
-      },
-      {
-        "id": "cd656fa75f813697",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
-        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
