@@ -185,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5
+    "width": 316.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,9 +209,10 @@
   },
   "active": "9762d0c0857ccd5c",
   "lastOpenFiles": [
+    "SubPages/Concursos/Engenharia de Software/Gestão de Dívida Técnica.md",
+    "Concursos.md",
     "TRE-PR/TRE-PR.mdenc",
     "MPPR/MPPR.mdenc",
-    "Concursos.md",
     "SubPages/Concursos/Banco de dados/ADABAS.md",
     "SubPages",
     "SubPages/Concursos/Banco de dados/Banco de Dados.md",
