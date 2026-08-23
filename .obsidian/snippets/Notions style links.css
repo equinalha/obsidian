@@ -73,8 +73,8 @@
 
 /* 2. RESPONSIVIDADE PARA CELULAR (Empilhar colunas verticalmente) */
 @media (max-width: 768px) {
-    .callout[data-callout="col"], 
-    .callout[data-callout="col-md"] {
+    .callout-content[data-callout="col"], 
+    .callout-content[data-callout="col-md"] {
         width: 100% !important; /* Força a coluna a ocupar 100% da largura da tela */
         max-width: 100% !important;
         flex: 0 0 100% !important; /* Anula o comportamento flex lado a lado */
