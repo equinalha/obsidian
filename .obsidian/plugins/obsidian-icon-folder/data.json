@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#8f66ff",
     "recentlyUsedIcons": [
+      "🖨",
       "🤖",
       "LiHatGlasses",
       "FasEye",
-      "🧰",
-      "🎧"
+      "🧰"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -454,5 +454,6 @@
   "Pessoal/Organização Pessoal/Linux/Linux productivity tools.md": "🧰",
   "Pessoal/Organização Pessoal/Linux/Nmap Cheatsheet.md": "FasEye",
   "Pessoal/Organização Pessoal/Linux/Jhon The Ripper.md": "LiHatGlasses",
-  "Pessoal/Organização Pessoal/Automation - IoT - DIY/Automation - IoT - DIY.md": "🤖"
+  "Pessoal/Organização Pessoal/Automation - IoT - DIY/Automation - IoT - DIY.md": "🤖",
+  "Pessoal/Organização Pessoal/3D Printing/3D Printing.md": "🖨"
 }

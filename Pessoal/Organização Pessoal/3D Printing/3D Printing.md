@@ -1,77 +1,49 @@
 ---
 
 ---
-[https://makerworld.com/pt/models/1179030-mcmele-ukulele-a-3d-printable-ukulele?from=search#profileId-1188866](https://makerworld.com/pt/models/1179030-mcmele-ukulele-a-3d-printable-ukulele?from=search#profileId-1188866)
-
-Crie modelos 3D personalizados em segundos · usestl [https://](https://share.google/SWBh5BuxV1NWzUWwW)usestl.com
-
-Split3MF [https://share.google/Mr6O75ds9LPZ7WMDa](https://share.google/Mr6O75ds9LPZ7WMDa)
-
-[Push-Spin Ball (no bearings, no supports, main structure Print in Place) - Free 3D Print Model - MakerWorld](https://makerworld.com/pt/models/3041168-push-spin-ball-no-bearings-no-supports-main-struct?from=search#profileId-3420401)
-
-[https://www.printables.com/model/1099261-fixed-cr-touch-error](https://www.printables.com/model/1099261-fixed-cr-touch-error)
-
-[https://obloid.app/tools/hinged-box](https://obloid.app/tools/hinged-box)
-
-[https://makerworld.com/pt/models/2385710-bio-egg-dispenser?from=search](https://makerworld.com/pt/models/2385710-bio-egg-dispenser?from=search)
-
-[https://makerworld.com/pt/models/892368-smart-automatic-pet-feeder?from=search](https://makerworld.com/pt/models/892368-smart-automatic-pet-feeder?from=search)
-
-[https://www.makeronline.com/en/model/3D%20Printed%20Miniature%20Pinball/159537.html?trackModuleType=6](https://www.makeronline.com/en/model/3D%20Printed%20Miniature%20Pinball/159537.html?trackModuleType=6)
-
-[https://www.weekdayweekend.net/workshop.html](https://www.weekdayweekend.net/workshop.html)
-
-[https://cults3d.com/:4503556](https://cults3d.com/:4503556)
-
-[https://makerworld.com/pt/models/2875592-mario-bros-pipe-multipart-no-ams#profileId-3210919](https://makerworld.com/pt/models/2875592-mario-bros-pipe-multipart-no-ams#profileId-3210919)
-
-Tamanhos 10 ao 11 infantis de Crocs - Modelo gratuito para impressão 3D - MakerWorld [https://share.google/dXadJ8xFhU5qFAkKD](https://share.google/dXadJ8xFhU5qFAkKD)
-
-Slinky - Brinquedo Sensorial - O Original - Modelo gratuito para impressão 3D - MakerWorld [https://share.google/X4j3nqmOKUfGcE1Lm](https://share.google/X4j3nqmOKUfGcE1Lm)
-
-[https://platform.stlflix.com/drops/drop-321](https://platform.stlflix.com/drops/drop-321)
-
-[https://makerworld.com/pt/models/1896760-flexi-panda-costume-cat-print-in-place?from=search#profileId-2032245](https://makerworld.com/pt/models/1896760-flexi-panda-costume-cat-print-in-place?from=search#profileId-2032245)
-
-[https://makerworld.com/pt/models/2624902-card-shuffler-v2-no-screw-no-glue?from=search#profileId-2930033](https://makerworld.com/pt/models/2624902-card-shuffler-v2-no-screw-no-glue?from=search#profileId-2930033)
-
-[https://makerworld.com/pt/models/844607-lightbox-super-mario-star?from=search#profileId-791471](https://makerworld.com/pt/models/844607-lightbox-super-mario-star?from=search#profileId-791471)
-
-[https://makerworld.com/pt/models/1698553-alien-space-lamp-organic-for-led-lamp-kit-001?from=search#profileId-1801065](https://makerworld.com/pt/models/1698553-alien-space-lamp-organic-for-led-lamp-kit-001?from=search#profileId-1801065)
-
-[https://3dprintshelf.com/](https://3dprintshelf.com/)
-
-Carrot (Foldable) by Thuwe - Thingiverse [https://share.google/OSGHDsxz7qm0MtPGN](https://share.google/OSGHDsxz7qm0MtPGN)
-
-Cute Bunny - 3D Scan by OpenScan - Thingiverse [https://share.google/t3JGeK5mxld46jUJ3](https://share.google/t3JGeK5mxld46jUJ3)
-
-[https://cults3d.com/en/3d-model/game/bokken](https://cults3d.com/en/3d-model/game/bokken)
-
-[https://www.printables.com/model/566955-3d-docker-whale](https://www.printables.com/model/566955-3d-docker-whale)
-
-[https://www.thingiverse.com/thing:5384621/files](https://www.thingiverse.com/thing:5384621/files)
-
-[https://www.meshy.ai/pt-BR?utm_source=google&utm_source=google&utm_medium=cpc&utm_medium=cpc&utm_campaign=Traffic_Focus&utm_campaign=Performance-Max-ROW-Sign-Up&utm_content=ROW&utm_term=&gad_source=1&gad_campaignid=22992901194&gclid=Cj0KCQjw4a3OBhCHARIsAChaqJMFmdd9WiOxhbqurv1qMl7VdOcuwimxS4AOHpjYhQbjh8kNaN-2RTAaAkjzEALw_wcB](https://www.meshy.ai/pt-BR?utm_source=google&utm_source=google&utm_medium=cpc&utm_medium=cpc&utm_campaign=Traffic_Focus&utm_campaign=Performance-Max-ROW-Sign-Up&utm_content=ROW&utm_term=&gad_source=1&gad_campaignid=22992901194&gclid=Cj0KCQjw4a3OBhCHARIsAChaqJMFmdd9WiOxhbqurv1qMl7VdOcuwimxS4AOHpjYhQbjh8kNaN-2RTAaAkjzEALw_wcB)
-
-[https://makerworld.com/pt/models/945598-musical-marble-tree-dice-tower#profileId-2596681](https://makerworld.com/pt/models/945598-musical-marble-tree-dice-tower#profileId-2596681)
-
-Ender 3 V3 SE/KE Bed Shims (for levelling) by D12345James - Thingiverse [https://share.google/zJ4tO9ND47hJwbTRB](https://share.google/zJ4tO9ND47hJwbTRB)
-
-[https://www.simplify3d.com/resources/print-quality-troubleshooting/](https://www.simplify3d.com/resources/print-quality-troubleshooting/)
-
-[https://www.printables.com/model/450075-hex-ukulele](https://www.printables.com/model/450075-hex-ukulele)
-
-[Catapulta de abóbora](https://cults3d.com/pt/modelo-3d/jogo/3d-printed-pumpkin-catapult-macshaycreations)
-
-[https://cults3d.com/es/modelo-3d/juegos/crazy-skeleton?fbclid=PAVERTVgONkK9leHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAafefYlzmPvx7co274UifPzibRZFtZBkEZ1T69u8eycitiQe3x8fFRYwG49uFA_aem_rlcoasZr1PToBuvKCy6eTA](https://cults3d.com/es/modelo-3d/juegos/crazy-skeleton?fbclid=PAVERTVgONkK9leHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAafefYlzmPvx7co274UifPzibRZFtZBkEZ1T69u8eycitiQe3x8fFRYwG49uFA_aem_rlcoasZr1PToBuvKCy6eTA)
-
+---
+>[!col]
+>>[!col-md]
+>># <span style="color: var(--notion-red)">Imprimir</span>
+>>[Ukele](https://makerworld.com/pt/models/1179030-mcmele-ukulele-a-3d-printable-ukulele?from=search#profileId-1188866)
+>>[Spin Ball](https://makerworld.com/pt/models/3041168-push-spin-ball-no-bearings-no-supports-main-struct?from=search#profileId-3420401)
+>>[Espaçador CR-Touch](https://www.printables.com/model/1099261-fixed-cr-touch-error)
+>>[Egg Dispenser](https://makerworld.com/pt/models/2385710-bio-egg-dispenser?from=search)
+>>[Pet Feeder](https://makerworld.com/pt/models/892368-smart-automatic-pet-feeder?from=search)
+>>[Pinball Game](https://www.makeronline.com/en/model/3D%20Printed%20Miniature%20Pinball/159537.html?trackModuleType=6)
+>>[Torodial Helix Chandelier](https://cults3d.com/:4503556)[Mario Pipe Figure](https://makerworld.com/pt/models/2875592-mario-bros-pipe-multipart-no-ams#profileId-3210919)
+>>[Crocs](https://share.google/dXadJ8xFhU5qFAkKD)
+>>[Brinquedo Sensorial](https://share.google/X4j3nqmOKUfGcE1Lm)
+>>[Panda Cat](https://makerworld.com/pt/models/1896760-flexi-panda-costume-cat-print-in-place?from=search#profileId-2032245)
+>>[Mario Light](https://makerworld.com/pt/models/844607-lightbox-super-mario-star?from=search#profileId-791471)[Alien Lamp](https://makerworld.com/pt/models/1698553-alien-space-lamp-organic-for-led-lamp-kit-001?from=search#profileId-1801065)
+>>[Carrot (Foldable)](https://share.google/OSGHDsxz7qm0MtPGN)
+>>[Cat Bunny](https://share.google/t3JGeK5mxld46jUJ3)
+>>[Bokken](https://cults3d.com/en/3d-model/game/bokken)
+>>[Tux](https://www.thingiverse.com/thing:5384621/files)
+>>[docker-whale](https://www.printables.com/model/566955-3d-docker-whale)
+>>[Catapulta de abóbora](https://cults3d.com/pt/modelo-3d/jogo/3d-printed-pumpkin-catapult-macshaycreations)
+>>[Crazy Skeleton](https://cults3d.com/es/modelo-3d/juegos/crazy-skeleton?fbclid=PAVERTVgONkK9leHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAafefYlzmPvx7co274UifPzibRZFtZBkEZ1T69u8eycitiQe3x8fFRYwG49uFA_aem_rlcoasZr1PToBuvKCy6eTA)
+>>[vasos](https://www.thingiverse.com/thing:4591435)
+>>[vaso](https://www.thingiverse.com/thing:6857162/makes)
+>
+>>[!col-md]
+>># <span style="color: var(--notion-green)">Ferramentas</span>
+>>[Crie modelos 3D personalizados em segundos · usestl](https://usestl.com)
+>>https://share.google/SWBh5BuxV1NWzUWwW
+>> [Split3MF](https://share.google/Mr6O75ds9LPZ7WMDa)
+>> [https://obloid.app/tools/hinged-box](https://obloid.app/tools/hinged-box)
+>> [WorkShop FreeCAD](https://www.weekdayweekend.net/workshop.html)
+>> [https://platform.stlflix.com/drops/drop-321](https://platform.stlflix.com/drops/drop-321)
+>> [https://3dprintshelf.com/](https://3dprintshelf.com/)
+>> [https://www.simplify3d.com/resources/print-quality-troubleshooting/](https://www.simplify3d.com/resources/print-quality-troubleshooting/)
+---
 ## Velocidade
 
-![[1000135719.png]]
+![[1000135719.png|707]]
 
 ## Filamentos
 
-![[1000135653.png]]
+![[1000135653.png|707]]
 
 # Precauções
 
@@ -205,11 +177,11 @@ Look inside the steering cabin at the roof and at the front circular portholes.
 ## Estrutura interna bagunçada
 
 <!-- Column 1 -->
-![[SubPages/Pessoal/images/image 33.png]]
+![[SubPages/Pessoal/images/image 33.png|707]]
 
 
 <!-- Column 2 -->
-![[SubPages/Pessoal/images/image 34.png]]
+![[SubPages/Pessoal/images/image 34.png|707]]
 
 <!-- Column 3 -->
 - Dificuldade da extrusora para empurrar o filamento
@@ -234,7 +206,7 @@ Look inside the steering cabin at the roof and at the front circular portholes.
 ## Aspecto derretido
 
 <!-- Column 1 -->
-![[SubPages/Pessoal/images/image 35.png]]
+![[SubPages/Pessoal/images/image 35.png|707]]
 
 ## Stringing (Teias)
 
@@ -268,84 +240,7 @@ Look inside the steering cabin at the roof and at the front circular portholes.
 - **Alimentação estritamente manual:** Após liberar o orifício, insira o filamento novo empurrando-o com a mão de forma lenta e suave, nunca utilizando as funções automáticas da impressora para não gerar nova contrapressão.
 - **Recalibração pós-manutenção:** Como houve manipulação física no hotend, rode novamente a rotina de nivelamento e calibração de Z-Offset na impressora antes de iniciar a sua próxima impressão.
 
-# Calibração
-
-<!-- Column 1 -->
-[https://www.thingiverse.com/thing:1278865](https://www.thingiverse.com/thing:1278865)
-
-<!-- Column 2 -->
-[https://www.thingiverse.com/thing:763622](https://www.thingiverse.com/thing:763622)
-
-# Imprimir
-
-<!-- Column 1 -->
-[https://www.thingiverse.com/thing:4591435](https://www.thingiverse.com/thing:4591435)
-
-<!-- Column 2 -->
-[https://www.thingiverse.com/thing:6857162/makes](https://www.thingiverse.com/thing:6857162/makes)
-
-[https://www.thingiverse.com/thing:4543763](https://www.thingiverse.com/thing:4543763)
-
-# Modelagem
-
-[https://www.autodesk.com/products/fusion-360/personal-download](https://www.autodesk.com/products/fusion-360/personal-download)
-
-# Manutenção
-
-[https://youtube.com/shorts/A1LLifOM91E?si=ikel65Kf2vN_QESO](https://youtube.com/shorts/A1LLifOM91E?si=ikel65Kf2vN_QESO)
-
-# Opções de software no Linux
-
-<!-- Column 1 -->
-[https://www.reddit.com/r/Fusion360/comments/162to7t/whats_the_current_state_of_fusion_360_on_linux/?tl=pt-br](https://www.reddit.com/r/Fusion360/comments/162to7t/whats_the_current_state_of_fusion_360_on_linux/?tl=pt-br)
-
-<!-- Column 2 -->
-[https://www.onshape.com/en/](https://www.onshape.com/en/)
-
-<!-- Column 1 -->
-[https://www.freecad.org/](https://www.freecad.org/)
-
-<!-- Column 2 -->
-[https://www.blender.org/](https://www.blender.org/)
-
-<!-- Column 1 -->
-[https://www.youtube.com/watch?v=3ZJ2exwB8DQ](https://www.youtube.com/watch?v=3ZJ2exwB8DQ)
-
-<!-- Column 2 -->
-[https://www.youtube.com/playlist?list=PL8kCnofYYWZqnstLVwQJF2D0UlGtYY4KY](https://www.youtube.com/playlist?list=PL8kCnofYYWZqnstLVwQJF2D0UlGtYY4KY)
-
-[https://wiki.freecad.org/Tutorials](https://wiki.freecad.org/Tutorials)
-
-# Sites para baixar modelos em STL
-
-<!-- Column 1 -->
-[https://cults3d.com/](https://cults3d.com/)
-
-[https://pinshape.com/](https://pinshape.com/)
-
-[https://www.thingiverse.com/](https://www.thingiverse.com/)
-
-[https://3dwarehouse.sketchup.com/](https://3dwarehouse.sketchup.com/)
-
-<!-- Column 2 -->
-[https://free3d.com/pt/](https://free3d.com/pt/)
-
-[https://www.stlfinder.com/](https://www.stlfinder.com/)
-
-[https://www.yeggi.com/](https://www.yeggi.com/)
-
-<!-- Column 3 -->
-[https://sketchfab.com/](https://sketchfab.com/)
-
-[https://youmagine.com/designs?tag=Free+3D+Model](https://youmagine.com/designs?tag=Free+3D+Model)
-
-[https://www.printables.com/](https://www.printables.com/)
-
 # Print Quality Trouble Shooting
-
-[https://www.simplify3d.com/resources/print-quality-troubleshooting/](https://www.simplify3d.com/resources/print-quality-troubleshooting/)
-
-## Print Quality Troubleshooting Guide
 
 This guide is a great place to start if you are trying to improve the quality of your 3D printed parts. We have compiled an extensive list of the most common 3D printing issues along with the software settings that you can use to solve them. Best of all, the guide uses a large collection of real-world images to make each issue easy to identify when examining your own 3D printed parts. So let’s get started!
 
@@ -395,24 +290,24 @@ Use the thumbnails below to identify the picture that most closely represents th
 
 [https://www.thingiverse.com/thing:2662731](https://www.thingiverse.com/thing:2662731)
 
-![[1000104820.png]]
+![[1000104820.png|707]]
 
-![[1000131102.png]]
+![[1000131102.png|707]]
 
-![[1000131103.png]]
+![[1000131103.png|707]]
 
-![[1000131104.png]]
+![[1000131104.png|707]]
 
-![[1000136488.png]]
+![[1000136488.png|707]]
 
-![[1000136489.png]]
+![[1000136489.png|707]]
 
-![[1000137687.png]]
+![[1000137687.png|707]]
 
-![[1000137688.png]]
+![[1000137688.png|707]]
 
-![[1000137689.png]]
+![[1000137689.png|707]]
 
-![[1000137690.png]]
+![[1000137690.png|707]]
 
-![[1000137691.png]]
+![[1000137691.png|707]]

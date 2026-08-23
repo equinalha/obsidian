@@ -8,7 +8,8 @@
 
 /* 1. Formatação do Link (Remove borda global e aplica flex para alinhar ícone + texto) */
 .cm-s-obsidian span.cm-hmd-internal-link,
-.markdown-rendered a.internal-link {
+.markdown-rendered a.internal-link,
+.markdown-rendered a.external-link {
     color: rgb(240, 239, 237) !important;
     text-decoration: none !important;
     border-bottom: 1px solid rgba(255, 255, 235, 0.15) !important; /* Remove a borda do container do link */
@@ -34,13 +35,15 @@
 }
 
 /* 2. Aplica a linha sublinhada estilo Notion APENAS no texto (ignorando o ícone) */
-.markdown-rendered a.internal-link {
+.markdown-rendered a.internal-link,
+.markdown-rendered a.external-link {
     /* Aplica a borda inferior via pseudo-elemento apenas na área do texto */
     border-bottom: 1px solid rgba(255, 255, 235, 0.15) !important;
 }
 
 /* 3. Alinhamento perfeito em grade para os Ícones (Iconize) */
-.markdown-rendered a.internal-link .iconize-icon-in-link {
+.markdown-rendered a.internal-link .iconize-icon-in-link,
+.markdown-rendered a.external-link .iconize-icon-in-link {
     display: inline-flex !important;
     justify-content: center !important;
     align-items: center !important;
@@ -54,7 +57,7 @@
 /* 4. Cores auxiliares e Hover */
 .cm-s-obsidian span.cm-link,
 .markdown-rendered a.external-link {
-    color: #1a73e8 !important;
+    color: var(--cor-link-notion) !important;
 }
 
 .markdown-rendered a.internal-link:hover,
@@ -97,7 +100,8 @@
     }
 
     /* Garante que os links internos ocupem a largura completa para leitura confortável */
-    .callout-content a.internal-link {
+    .callout-content a.internal-link,
+    .callout-content a.external-link {
         max-width: 100% !important;
         width: 100% !important;
     }
