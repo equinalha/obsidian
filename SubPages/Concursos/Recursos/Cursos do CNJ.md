@@ -1,7 +1,8 @@
 ---
 base: "[[Recursos.base]]"
 cover: "[[Cursos do CNJ.jpeg]]"
-Tags: []
+Tags:
+  - Recursos
 ---
 kubernetes [https://www.youtube.com/watch?v=b9Eh0WuH8aI](https://www.youtube.com/watch?v=b9Eh0WuH8aI)
 

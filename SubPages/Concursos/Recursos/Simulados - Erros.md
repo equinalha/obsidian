@@ -1,7 +1,8 @@
 ---
 base: "[[Recursos.base]]"
 cover: "[[Simulados - Erros.jpeg]]"
-Tags: []
+Tags:
+  - Recursos
 ---
 > [!note]+ # TCE-RJ 2021
 > ## To Do

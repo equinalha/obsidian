@@ -1,6 +1,7 @@
 ---
 base: "[[Recursos.base]]"
 cover: "[[Gitmind.jpeg]]"
-Tags: []
+Tags:
+  - Recursos
 ---
 [https://gitmind.com/app/docs](https://gitmind.com/app/docs)

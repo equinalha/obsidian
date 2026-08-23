@@ -1,4 +1,4 @@
-Engenharia de Software, Gestão de Projetos e Governança de TI
+# Engenharia de Software, Gestão de Projetos e Governança de TI
 ---
 >[!col]
 >[[Engenharia de Software]]
@@ -238,7 +238,7 @@ Engenharia de Software, Gestão de Projetos e Governança de TI
 >[[SCAP]]
 ---
 
-# Legislação
+# Legislação / Gerais / Sistemas Embarcados
 ---
 >[!col]
 >[[Organização Administrativa]]
@@ -270,3 +270,52 @@ Engenharia de Software, Gestão de Projetos e Governança de TI
 >[[Qt Framework]]
 >[[OpenSSL 3]]
 >[[LibCurl]]
+---
+# Recursos
+---
+```dataview
+TABLE WITHOUT ID embed(link(cover)) AS "", file.link AS "Recursos" FROM #Recursos WHERE cover
+```
+---
+
+# Análise Estratégica
+>[!col]
+>[[Recursos Estatísticos]]
+>[[Análise de gabaritos CEBRASPE]]
+>[[Tópicos mais relevantes - CEBRASPE]]
+>[[Vantagens MP-PR]]
+>[[Dicas Importantes]]
+# 🔥<span style="color: var(--notion-red)">To Do</span>
+
+[[Feitos]]
+
+- [ ] Resolver uma bateria de questões sobre PowerBI
+- [ ] [https://docs.spring.io/spring-boot/](https://docs.spring.io/spring-boot/)
+- [ ] **Ciclo de Vida de Software**
+- [ ] **Engenharia de Requisitos**
+- [ ] [https://learn.microsoft.com/pt-br/windows-hardware/drivers/kernel/](https://learn.microsoft.com/pt-br/windows-hardware/drivers/kernel/)
+- [ ] Ler todas as funções de array e string do JavaScript
+- [ ] Status codes HTTP
+- [ ] Ler resumo:
+    - [ ] COBIT
+    - [ ] SCRUM
+- [ ] **Revisar Processos de Software**
+- [ ] Hardening de servidores Windows
+
+# Simulados
+```dataview
+TABLE
+  file.link AS "Prova",
+  Desempenho,
+  Banca,
+  Obs,
+  row["1o Colocado"] AS "1º Colocado",
+  Tipo,
+  Obj,
+  Status,
+  Data,
+  round(((Desempenho / row["1o Colocado"]) - 1) * 100) + "%" AS "% Colocação"
+FROM ""
+WHERE base = link("Simulados.base")
+SORT file.name ASC
+```

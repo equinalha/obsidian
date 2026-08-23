@@ -1,6 +1,7 @@
 ---
 base: "[[Recursos.base]]"
 cover: "[[SQL Fiddle.jpeg]]"
-Tags: []
+Tags:
+  - Recursos
 ---
 [https://sqlfiddle.com/oracle/online-compiler](https://sqlfiddle.com/oracle/online-compiler)
