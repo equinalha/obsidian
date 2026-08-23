@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concursos.md",
+                "file": "Mestrado/Mestrado.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Concursos"
+              "title": "Mestrado"
             }
           }
         ]
@@ -194,7 +194,10 @@
   },
   "active": "deb1adda2d0000eb",
   "lastOpenFiles": [
+    "Concursos.md",
+    "TRE-PR/TRE-PR.mdenc",
     "MPPR/MPPR.mdenc",
-    "TRE-PR/TRE-PR.mdenc"
+    "Concursos/Engenharia de Software/PMBOK 7.md",
+    "Concursos/Engenharia de Software/Engenharia de Software.md"
   ]
 }
