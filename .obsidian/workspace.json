@@ -15,7 +15,17 @@
               "state": {
                 "file": "MPPR.mdenc",
                 "mode": "preview",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "MPPR"
@@ -209,12 +219,12 @@
   },
   "active": "4df05c449027129e",
   "lastOpenFiles": [
-    "Mestrado.md",
-    "Concursos.md",
     "Tweets.base",
     "TRE-PR.mdenc",
-    "Poscomp.md",
     "MPPR.mdenc",
+    "Mestrado.md",
+    "Concursos.md",
+    "Poscomp.md",
     "ADS - PUC-PR.base",
     "SubPages/Tweets/✨ React JS Reference sheet for beginners ✨.md",
     "SubPages/TRE-PR/Apresentação CANDEX.mdenc",
