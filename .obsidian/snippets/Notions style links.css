@@ -61,37 +61,15 @@
     color: #438101 !important;
 }
 
-/* 5. Remove marcadores de lista (bolinhas) no modo de leitura e edição */
-/* .markdown-rendered ul,
-.markdown-rendered li,
-.callout-content ul, 
-.callout-content li {
-    list-style: none !important;
-    list-style-type: none !important;
-    padding-left: 0 !important;
-    margin-left: 0 !important;
-} */
-
-/* Remove os marcadores específicos de leitura do Obsidian em temas escuros/claros */
-/* .markdown-rendered ul > li::marker,
-.markdown-rendered ol > li::marker {
-    content: "" !important;
-    display: none !important;
-} */
-
 .callout-content a {
     margin-bottom: 5px !important; /* Espaçamento vertical entre os itens estilo Notion */
 }
 
-div.inline-title {
-    margin-bottom: 30px !important; /* Espaçamento vertical entre os itens estilo Notion */
-}
-
 /* Garante que o contêiner da lista não estique a coluna */
-.callout[data-callout*="col"] li {
+/* .callout[data-callout*="col"] li {
     max-width: 100% !important;
     overflow: hidden !important;
-}
+} */
 
 /* 2. RESPONSIVIDADE PARA CELULAR (Empilhar colunas verticalmente) */
 @media (max-width: 768px) {
