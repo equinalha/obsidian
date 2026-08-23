@@ -63,7 +63,7 @@
 }
 
 .callout-content a {
-    margin-bottom: 5px !important; /* Espaçamento vertical entre os itens estilo Notion */
+    margin-bottom: 2px !important; /* Espaçamento vertical entre os itens estilo Notion */
 }
 
 /* Garante que o contêiner da lista não estique a coluna */
